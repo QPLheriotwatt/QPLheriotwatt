@@ -1,3 +1,115 @@
+- name: Dafydd Heyburn
+  photo: Dafydd.jpeg
+  info: PhD Student
+  email: milan.allan@gmail.com
+  number_educ: 1
+  education1:
+  education2:
+
+- name: Meysam Setodeh Kheirabady
+  photo: Meysam.png
+  info: PhD Student
+  email: milan.allan@gmail.com
+  number_educ: 1
+  education1:
+  education2:
+
+- name: Stefan Todd
+  photo: Stefan.jpg
+  info: PhD Student
+  email: milan.allan@gmail.com
+  number_educ: 1
+  education1:
+  education2:
+
+- name: Prokhor Tkhor
+  photo: Prokhor.jpg
+  info: PhD Student
+  email: milan.allan@gmail.com
+  number_educ: 1
+  education1:
+  education2:
+
+- name: Alex Jones
+  photo: Alex.jpg
+  info: PhD Student
+  email: milan.allan@gmail.com
+  number_educ: 1
+  education1:
+  education2:
+
+- name: Bibi Mary Francis
+  photo: Bibi.jpg
+  info: PhD Student
+  email: milan.allan@gmail.com
+  number_educ: 1
+  education1:
+  education2:
+
+- name: Issam Belgacem
+  photo: Issam.jpg
+  info: PhD Student
+  email: milan.allan@gmail.com
+  number_educ: 1
+  education1:
+  education2:
+
+- name: Tatyana Ivanova
+  photo: Tatyana.jpeg
+  info: PhD Student
+  email: milan.allan@gmail.com
+  number_educ: 1
+  education1:
+  education2:
+
+- name: Kieran McGovern
+  photo: Kieran.jpg
+  info: EngD Student
+  email: milan.allan@gmail.com
+  number_educ: 1
+  education1:
+  education2:
+
+- name: Finley Giles-Book
+  photo: Finley.jpg
+  info: PhD Student
+  email: milan.allan@gmail.com
+  number_educ: 1
+  education1:
+  education2:
+
+- name: Sean Keenan
+  photo: Sean.jpg
+  info: PhD Student
+  email: milan.allan@gmail.com
+  number_educ: 1
+  education1:
+  education2:
+
+- name: Frederik Brooke Barnes
+  photo: Frederik.png
+  info: PhD Student
+  email: milan.allan@gmail.com
+  number_educ: 1
+  education1:
+  education2:
+
+- name: Sheena Shaji
+  photo: Sheena.jpeg
+  info: PhD Student
+  email: milan.allan@gmail.com
+  number_educ: 1
+  education1:
+  education2:
+
+- name: "This could be you!"
+  photo: rock.jpg
+  info: See <a href="http://www.allanlab.org/vacancies">openings</a> for more info
+  email: milan.allan@gmail.com
+  number_educ: 0
+  education1:
+  education2:
+
 #- name:
 #  photo: rock.jpg
 #  info:
@@ -7,5 +119,3 @@
 #  education2:
 #  education3:
 #  education4:
-
-
