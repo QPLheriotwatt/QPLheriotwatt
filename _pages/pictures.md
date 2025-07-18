@@ -1,7 +1,7 @@
 ---
-title: "Allan Lab - Pictures"
+title: "Quantum Photonics Laboratory - Pictures"
 layout: piclay
-excerpt: "Allan Lab -- Pictures"
+excerpt: "Quantum Photonics Laboratory -- Pictures"
 permalink: /pictures/
 ---
 

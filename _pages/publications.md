@@ -1,7 +1,7 @@
 ---
-title: "Allan Lab - Publications"
+title: "Quantum Photonics Laboratory - Publications"
 layout: gridlay
-excerpt: "Allan Lab -- Publications."
+excerpt: "Quantum Photonics Laboratory -- Publications."
 sitemap: false
 permalink: /publications/
 ---
@@ -9,9 +9,12 @@ permalink: /publications/
 
 # Publications
 
-## Group highlights
+**Publications from the whole Quantum Photonics Lab can be found here: [QPL Google Scholar account](https://scholar.google.com/citations?hl=en&user=ses26X0AAAAJ&view_op=list_works&sortby=pubdate). Publications for individual team leaders can be found on their own Google Scholar pages: [Brian Gerardot](https://scholar.google.com/citations?user=D7Z9rXcAAAAJ&hl=it&oi=ao), [Cristian Bonato](https://scholar.google.com/citations?user=u4UJsosAAAAJ&hl=it&oi=ao), [Margherita Mazzera](https://scholar.google.com/citations?user=60hNxz4AAAAJ&hl=it&oi=ao), [Mauro Brotons i Gisbert](https://scholar.google.com/citations?user=hA5Isw8AAAAJ&hl=it&oi=ao), [Christiaan Bekker](https://scholar.google.com/citations?user=d1CFpsMAAAAJ&hl=it&oi=ao), [Samer Kurdi](https://scholar.google.com/citations?user=LcsoFOQAAAAJ&hl=en&oi=ao). See key publications below**
 
-**At the end of this page, you can find the [full list of publications and patents](#full-list-of-publications). All papers are also available on [arXiv](https://arxiv.org/search/?searchtype=author&query=Allan%2C+M+P).**
+**We often collaborate with industry to create novel scientific instrumentations, or develop novel methodologies to exploit existing existing equipment for novel quantum experiments. This is reported in Application Notes, such as:
+Zurich Instruments, [Speeding up NV Center Measurements with Real-time Control](https://www.zhinst.com/ch/en/blogs/speeding-nv-center-measurements-real-time-control).**
+
+**See selected publications below:**
 
 {% assign number_printed = 0 %}
 {% for publi in site.data.publist %}
@@ -51,11 +54,6 @@ permalink: /publications/
 
 <p> &nbsp; </p>
 
-
-## Patents
-<em>Milan P Allan, S Gröblacher, RA Norte, M Leeuwenhoek</em><br />Novel atomic force microscopy probes with phononic crystals<br /> PCT/NL20-20/050797 (2020)
-
-<em>Milan P Allan</em><br /> Methods of manufacturing superconductor and phononic elements <br /> <a href="https://patents.google.com/patent/US10439125B2/en?inventor=Milan+ALLAN&oq=inventor:(Milan+ALLAN)">US10439125B2 (2016)</a>
 
 ## Full List of publications
 

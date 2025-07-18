@@ -1,5 +1,5 @@
 ---
-title: "Quntum Photonics Laboratory - Home"
+title: "Quantum Photonics Laboratory - Home"
 layout: homelay
 excerpt: "Heriot-Watt University."
 sitemap: false
@@ -29,22 +29,22 @@ Our research has three main themes: (1)  [(Quantum Materials)](https://www.alla
     <!-- Items -->
     <div class="carousel-inner" markdown="0">
         <div class="item active">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/QPI_Rh.jpg" alt="Slide 1" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider/groupphoto.jpg" alt="Slide 1" />
+        </div>     
+        <div class="item">
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider/scanningtip.png" alt="Slide 2" />
         </div>
         <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/SmartTipSide.jpg" alt="Slide 2" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider/SIL_laser_writing_cover_4.png" alt="Slide 3" />
         </div>
         <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/SaphireSTM2.jpg" alt="Slide 3" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider/01_SiC_quantum_device-e1606424074191.jpg" alt="Slide 4" />
         </div>
         <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/lab.jpg" alt="Slide 4" />
-        </div>
-        <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/Fig_Science_Web.jpg" alt="Slide 5" />
-        </div>       
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider/hemis_dense2_2_05_banner.tif" alt="Slide 5" />
+        </div>  
          <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/BSCCO2gap2.jpg" alt="Slide 6" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider/BSCCO2gap2.jpg" alt="Slide 6" />
         </div>
     </div>
   <a class="left carousel-control" href="#carousel" role="button" data-slide="prev">

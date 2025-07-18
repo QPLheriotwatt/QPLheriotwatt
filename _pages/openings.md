@@ -1,5 +1,5 @@
 ---
-title: "QPL - Vacancies"
+title: "Quantum Photonics Laboratory - Vacancies"
 layout: textlay
 excerpt: "Openings"
 sitemap: false
