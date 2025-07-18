@@ -3,8 +3,8 @@
   info: Professor, RAEng Chair in Emerging Technology
   email: b.d.gerardot@hw.ac.uk
   number_educ: 2
-  education1: PhD, UC Santa Barbara (2004)
-  education2: BSc, Purdue University (1998)
+  education1: PhD, UC Santa Barbara
+  education2: BSc, Purdue University
   education3: Postdoc, Heriot-Watt University
 
 - name: Prof. Cristian Bonato
@@ -12,24 +12,24 @@
   info: Professor, EPSRC Early-Career Fellow
   email: c.bonato@hw.ac.uk
   number_educ: 2
-  education1: PhD, University of Padova (2005 - 2008)
-  education2: BSc, University of Padova (1999 - 2004)
+  education1: PhD, University of Padova
+  education2: MSc, University of Padova
 
 - name: Prof. Margherita Mazzera
   photo: Margherita.jpg
   info: Professor & EPSRC Fellow
   email: m.mazzera@hw.ac.uk
   number_educ: 2
-  education1: PhD, University of Parma (2003 - 2006)
-  education2: MSc, University of Parma (1996 - 2002)
+  education1: PhD, University of Parma
+  education2: MSc, University of Parma 
 
 - name: Dr Samer Kurdi
   photo: Samer.jpg
   info: Assisstant Professor
   email: s.kurdi@hw.ac.uk
   number_educ: 2
-  education1: PhD, University of Cambridge (2016 - 2020)
-  education2: MSc, Technische Universität Darmstadt (2014)
+  education1: PhD, University of Cambridge 
+  education2: MSc, Technische Universität Darmstadt and Grenoble INP 
 
 - name: Dr Mauro Brotons-Gisbert
   photo: Mauro.jpeg
@@ -44,8 +44,8 @@
   info: Royal Academy of Engineering fellow
   email: c.bekker@hw.ac.uk
   number_educ: 2
-  education1: PhD, University of Queensland (2016 - 2020)
-  education2: BSc (Hons), University of Queensland (2015)
+  education1: PhD, University of Queensland
+  education2: BSc (Hons), University of Queensland 
 
 - name: Sarah Nutt
   photo: Sarah.jpg
@@ -61,8 +61,8 @@
   info: Research Associate
   email: b
   number_educ: 2
-  education1: PhD, University of Oxford (2019 - 2024)
-  education2: MSc, University of Strathclyde (2014 - 2019)
+  education1: PhD, University of Oxford 
+  education2: MSc, University of Strathclyde 
   education3:
   education4:
 
@@ -71,8 +71,8 @@
   info: Research Associate
   email: b
   number_educ: 2
-  education1: PhD, University of Pretoria (2017 - 2020)
-  education2: MSc, University of Pretoria (2015 - 2017)
+  education1: PhD, University of Pretoria 
+  education2: MSc, University of Pretoria 
   education3:
   education4:
 
@@ -81,8 +81,8 @@
   info: Marie Curie Postdoctoral Fellow
   email: Oosten@fmd.physics.leidenuniv.nl
   number_educ: 2
-  education1: PhD, 성균관대학교(Sungkyunkwan University) (2019 - 2023)
-  education2: BSc, 성균관대학교(Sungkyunkwan University) (2013 - 2019)
+  education1: PhD, 성균관대학교(Sungkyunkwan University) 
+  education2: BSc, 성균관대학교(Sungkyunkwan University) 
 
 - name: Dr Zhe Li
   photo: ZheLi.png
@@ -97,8 +97,8 @@
   info: Research Associate
   email: g.kourmoulakis@hw.ac.uk
   number_educ: 2
-  education1: PhD, University of Crete (2018 - 2023)
-  education2: MSc, University of Crete (2015 - 2017)
+  education1: PhD, University of Crete
+  education2: MSc, University of Crete 
 
 - name: Dr Zeeshan Babar
   photo: Zeeshan.jpg
@@ -113,13 +113,13 @@
   info: Research Associate
   email: n.werren@hw.ac.uk
   number_educ: 2
-  education1: PhD, University of Surrey (2016 - 2020)
-  education2: MSc, University of Sussex (2015 - 2016)
+  education1: PhD, University of Surrey 
+  education2: MSc, University of Sussex 
 
 - name: Dr Muhammad Junaid Arshad
   photo: Arshad.jpeg
   info: Experimental Officer for the Quantum Magnetometry Facility
   email: muhammad_junaid.arshad@hw.ac.uk
   number_educ: 2
-  education1: PhD, Heriot-Watt University (2019 - 2023)
-  education2: MSc, Lahore University of Management Sciences (2017 - 2019)
+  education1: PhD, Heriot-Watt University 
+  education2: MSc, Lahore University of Management Sciences 
