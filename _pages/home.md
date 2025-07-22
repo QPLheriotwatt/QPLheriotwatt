@@ -62,9 +62,13 @@ We are currently building up our instruments right in the center of Munich, in t
 
 
 <figure class="fifth">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/LMU_logo.png" style="width: 130px">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_Leiden.jpg" style="width: 140px">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Tschira.png" style="width: 150px">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_ERC.jpg" style="width: 100px">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/SuperC_logo.png" style="width: 100px">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Heriot-Watt_University_logo.png">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/RAE-Logo-1.png">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Quantum_technologies-logo.png">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Quantum_communications-hub-logo.png">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/dstl-logo.png">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/epsrc-logo.png">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Q-BIOMED-Logo-1.png">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/AppliedQuantumTechnoloies-logo.png">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/royalSociety-Logo.png">
 </figure>

@@ -22,7 +22,19 @@ figcaption {
 
 
 /* Top navigation bar */
+.navbar-logo {
+    height: 30px;
+    width: auto;
+    margin: 0 10px 0 0;
+    padding: 0;
+    display: inline-block;
+    vertical-align: middle;
+}
 
+.navbar-brand {
+    display: flex;
+    align-items: center;
+}
 
 p.byline {
 	text-align: center;
@@ -89,5 +101,27 @@ firstp {
     margin-top: 20px;
     margin-left: 30px;
     margin-right: 30px;
+}
+
+/* Logos display fix */
+figure.fifth {
+    display: flex !important;
+    flex-direction: row !important;
+    flex-wrap: wrap !important;
+    justify-content: center !important;
+    align-items: center !important;
+    gap: 30px;
+    margin: 20px 0;
+    width: 100%;
+}
+
+figure.fifth img {
+    display: inline-block !important;
+    margin: 10px !important;
+    height: auto !important;
+    max-width: 150px !important;
+    object-fit: contain;
+    float: none !important;
+    vertical-align: middle;
 }
 
