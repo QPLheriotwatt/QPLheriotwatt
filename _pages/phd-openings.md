@@ -8,28 +8,68 @@ permalink: /vacancies/phd
 
 # PhD Positions
 
-**We are currently open for PhD applications related to our ERC CoG grant. The positions are mostly related to the Electron Pair Microscopy projects.**
+We wish to recruit motivated students to join our group from April 2025. Applicants should have, or expect to obtain a 1st Class Honours degree in a relevant numerate discipline, for example Physics, Electrical and Electronic Engineering, or Materials Science.
 
-We are looking for new PhD students with passion, talent, and grit!
+These PhD projects (mostly experimental) offer a rare opportunity to gain a wide spectrum of experience with semiconductor device design, nano-fabrication, nano-optics, laser spectroscopy, cryogenics, electron spin resonance, machine learning and sophisticated electronics. The research is multi-disciplinary, involving condensed-matter physics, quantum optics, materials science, and quantum information processing. We offer a world-class laboratory and a strong network of international collaborators. Please send inquiry emails to Prof. Brian Gerardot (b.d.gerardot@hw.ac.uk), Prof Cristian Bonato (c.bonato@hw.ac.uk), Dr Margherita Mazzera (m.mazzera@hw.ac.uk), Dr Mauro Brotons-Gisbert (m.brotons_i_gisbert@hw.ac.uk), Dr Christiaan Bekker (c.bekker@hw.ac.uk) or Dr Samer Kurdi (s.kurdi@hw.ac.uk).
 
-You will have the chance to work on the grand challenges of condensed matter physics, often at the interface of instrumental design and new physics. You will be involved in determining the important and interesting questions, creating and improving instrumental setups, performing measurements, and making discoveries.
+## Project 1: Autonomous assembly of 2D moiré materials with quantum-level homogeneity
 
-### Past PhD openings
+Remarkable breakthroughs have been achieved in just a few short years in the growing field of moiré materials. However, an urgent obstacle impeding progress is a lack of sample homogeneity and reproducibility. Sizable twist-angle inhomogeneity is present in all state-of-the-art devices to date, and a small fluctuation in twist-angle can result in significant inhomogeneity in physical properties. With more perfect twist-angle control, the better the periodicity of the moiré pattern, and the richer the electronic phase diagrams. With better twist-angle control and homogeneity, the influence of other control parameters on physical properties can be pursued in a more reliable way. Thus, discovering ways to minimize twist-angle (and heterostrain) disorder is crucial to understanding the properties of twisted multilayers formed from graphene, 2D semiconductors, semimetals, or magnetic layers as well as developing next generation technologies.
 
-You find the past PhD job openings here:
-[Opening 1]({{ site.baseurl }}/downloads/PPMS_PhD_2019_v01.pdf),
-[Opening 2]({{ site.baseurl }}/downloads/PHD1.pdf),
-[Opening 3]({{ site.baseurl }}/downloads/PHD2.pdf).
+This project aims to implement machine vision and in-situ optical metrology tools to identify pick-and-place assembly parameters which minimize twist-angle disorder and maximize homogeneity during the heterostructure fabrication. The optical characterization tools and results will be directly confirmed by direct measurements of the structural properties of the moiré lattice. Finally, we aim to understand both the qualitative and quantitative impacts of twist-angle disorder on the ‘quantum’ properties of the emergent states (e.g. the phase diagram including fractional filling dependence and crystal melting temperatures, the strength of the magnetic interactions, etc.). This can be achieved by spatially correlating moiré structural properties with the optically measured strongly correlated phenomena in TMD-based moiré devices.
 
-### Applications for PhD positions
-If you are interested in working with us as a PhD student, please send me an [email](mailto:milan.allan@gmail.com). State briefly why you are interested and attach a CV, including information about the grades you had as an undergraduate. No need for a separate cover letter or certificates. **Important**: please insert _"Application PhD"_ in the subject line. If you are applying to a specific advertisement, note this in your email.
+**Contact**: Brian Gerardot ([b.d.gerardot@hw.ac.uk](mailto:b.d.gerardot@hw.ac.uk))
 
-### PhD projects for Heriot-Watt University students
-If you are a Master student at Heriot-Watt University looking for a PhD project, contact me (or any group member) per email or stop by my office.
+## Project 2: Novel platforms for integrated quantum devices based on rare earth doped insulating materials
 
-### PhD students from elsewhere
-If you are interested in pursuing a PhD degree at Heriot-Watt University, see our university website for more information. Sometimes, we take PhD students if we get exceptional applicants (this usually means very good grades and a personal recommendation).
+This project aims at the development of new telecom-compatible platforms for integrated quantum devices based on rare earth ion doped materials. This will involve the investigation of the mechanisms affecting the optical and spin coherence properties of new materials and the design of confined structure with the aim of achieving improved performances due to the strong light matter interaction and facilitating the coupling with other integrated quantum technologies as quantum light sources or detectors.
 
-<figure>
-<img src="{{ site.url }}{{ site.baseurl }}/images/picpic/Gallery/DSC_0696.jpg" width="95%">
-</figure>
+Contact: Dr. Margherita Mazzera, [m.mazzera@hw.ac.uk](mailto:m.mazzera@hw.ac.uk), +44 (0)131 451 8220
+
+## Project 3: Strongly correlated states in designer two-dimensional moiré heterostructures
+
+Two-dimensional semiconductors offer unprecedented opportunities to engineer and tune the interactions between particles at the quantum level to give rise to emergent phases and states of matter. This project aims to design, fabricate, and characterize (via quantum transport and quantum optics) highly tunable moiré heterostructures which act as a quantum simulator of the Hubbard model.
+
+**Contact**: Mauro Brotons-Gisbert ([m.brotons_i_gisbert@hw.ac.uk](mailto:m.brotons_i_gisbert@hw.ac.uk)); Brian Gerardot ([b.d.gerardot@hw.ac.uk](mailto:b.d.gerardot@hw.ac.uk))
+
+## Project 4: Controlling spins in silicon carbide devices
+
+A single spin is the smallest possible magnetic field sensor, providing the ultimate limit in spatial resolution and sensitivity. Additionally, spins are excellent systems to store and process fragile quantum information. The goal of this project is to develop spin-based opto-electronic quantum devices based on spins in silicon carbide. As a semiconductor widely used in microelectronics, silicon carbide is a promising platform to integrate spintronic functionalities in quantum devices compatible with the current industrial processing techniques. A strong emphasis of the project will be on taking full advantage of the well-established micro-electronic SiC technology to develop novel spin control and measurement techniques.
+
+**Contact**: Cristian Bonato ([c.bonato@hw.ac.uk](mailto:c.bonato@hw.ac.uk))
+
+## Project 5: Sequential Bayesian estimation and machine learning for quantum sensing
+
+Recent breakthroughs have demonstrating the capability of quantum sensors for measuring magnetic fields, temperature and electric field at the nanoscale. The deployment of these techniques are, however, limited by long signal acquisition times.
+In this project, we will use real-time adaptation of experimental parameters and machine learning to optimise quantum measurements to the ultimate limits. Our long-term goal is to develop AI-powered algorithms to design optimal adaptive control sequences and system identification tools (for example to detect single nuclear spins in nanoscale magnetic resonance).
+This work will be carried out in collaboration with the quantum theory group of Dr Erik Gauger and the signal processing group of Dr Yoann Altmann. We can accommodate projects with different levels of mixing between theory/numerical and experiments – however, proficiency in coding is a prerequisite in all cases.
+
+**Contact**: Cristian Bonato ([c.bonato@hw.ac.uk](mailto:c.bonato@hw.ac.uk))
+
+## Project 6: Quantum sensing of magnetism in 2D materials
+
+Our group has recently been awarded a >£2M grant to establish a Quantum Magnetometry facility that will utilise a single electronic spin to measure magnetic fields with nanoscale spatial resolution at ultra-low temperatures (mK range). This is a quite unique facility worldwide, which will open the way to the investigation of quantum correlated states in 2D heterostructures, exotic magnetic textures, unconventional superconductivity. We are looking for a PhD student to join this project and contribute both to establishing the facility and to use it to carry out exciting science! This work will be carried out in collaboration with Prof Brian Gerardot.
+
+**Contact**: Cristian Bonato ([c.bonato@hw.ac.uk](mailto:c.bonato@hw.ac.uk)) or Brian Gerardot ([b.d.gerardot@hw.ac.uk](mailto:b.d.gerardot@hw.ac.uk))
+
+## Project 7: Towards imaging propagating spin waves in 2D magnets using nitrogen vacancy spins in diamond
+
+Recently a new group of magnets, called van der Waals magnets have risen to the forefront of condensed matter research. These magnets provide unprecedented opportunities for probing magnetism in the 2D limit. Many vdW magnets have been discovered with metallic to insulating electronic properties and continuous efforts have focused on manipulating their static magnetization electrostatically, using strain and pressure. Despite the exciting progress, little is known about their magnetic excitations – spin waves. The goal of this research is to therefore determine the nature of spin waves in two dimensional magnets and control their transport for the ultimate goal of developing nanoscale spin-wave devices.
+
+**Contact**: Samer Kurdi ([sk862@cantab.ac.uk](mailto:sk862@cantab.ac.uk))
+
+## Project 8: Superconducting qubit diagnostics: Unravelling noise sources for maximizing coherence times
+
+Quantum computers based on superconducting circuits are lose their quantum properties on short timescales resulting limiting the potential of their applications. The presence of microscopic and non-optimal circuit design are major sources of noise leading to low fidelity operations and limiting the number of operations that superconducting circuit quantum computers can perform. The goal of this project is to use quantum magnetometry for investigate sources of noise in superconducting circuits for the ultimate goal of optimizing qubit fabrication for scaling up quantum computers.
+
+**Contact**: Samer Kurdi ([sk862@cantab.ac.uk](mailto:sk862@cantab.ac.uk))
+
+## Project 9: Quantum sensing for biomedical application
+
+In collaboration with the new Q-BIOMED quantum hub, we are developing applications of quantum sensing to biochemistry and healthcare, with the goal to improve the detection of small quantities of molecules. We can offer different projects, from the optimisation of quantum sensing sequences for the detection of single molecules, to the integration of quantum sensors into microfluidic devices.
+
+**Contact**: Cristian Bonato ([c.bonato@hw.ac.uk](mailto:c.bonato@hw.ac.uk))
+
+<!-- <figure> -->
+<!-- <img src="{{ site.url }}{{ site.baseurl }}/images/picpic/Gallery/DSC_0696.jpg" width="95%"> -->
+<!-- </figure> -->

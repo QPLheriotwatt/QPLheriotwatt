@@ -6,13 +6,16 @@ sitemap: false
 permalink: /
 ---
 
-**We are looking for passionate new PhD students, Postdocs, and Master students to join the team** [(more info)](https://www.allanlab.org/vacancies) **!**
+**We are looking for passionate new Postdocs, PhD and Master students to join the team** [(more info)]({{ site.url }}{{ site.baseurl }}/vacancies) **!**
 
-We are a dynamic research group at [LMU physics](https://www.physik.lmu.de/en/index.html) and at the [Leiden Institute of Physics](http://www.physics.leidenuniv.nl/). 
+<!-- We are a dynamic research group at [LMU physics](https://www.physik.lmu.de/en/index.html) and at the [Leiden Institute of Physics](http://www.physics.leidenuniv.nl/).  -->
 
 Welcome to the website of the Quantum Photonics Lab at Heriot-Watt University, Edinburgh (UK). We work at the interface of quantum optics, condensed-matter physics, electrical engineering and materials science to create novel quantum devices, with the dual goals to investigate fascinating fundamental physics and to develop applications to secure quantum networking and nanoscale quantum sensing. 
 
-Our research has three main themes: (1)  [(Quantum Materials)](https://www.allanlab.org/vacancies) , (2)  [(Quantum Sensing)](https://www.allanlab.org/vacancies) , and (3)  [(Quantum Communication)](https://www.allanlab.org/vacancies) . 
+Our research has three main themes:
+- [Quantum Materials]({{ site.url }}{{ site.baseurl }}/quantum-materials)
+- [Quantum Sensing]({{ site.url }}{{ site.baseurl }}/quantum-sensing)
+- [Quantum Communication]({{ site.url }}{{ site.baseurl }}/quantum-communication)
 
 <div markdown="0" id="carousel" class="carousel slide" data-ride="carousel" data-interval="4000" data-pause="hover" >
     <!-- Menu -->
@@ -57,8 +60,6 @@ Our research has three main themes: (1)  [(Quantum Materials)](https://www.alla
   </a>
 </div>
 
-
-We are currently building up our instruments right in the center of Munich, in the *Sommerfeldkeller*, where Sommerfeld and Röntgen worked. We will exchange ideas with world class groups working in quantum physics, cold-atom many-body physics, and 2d quantum materials. We are also a proud member of the [SuperC consortium](https://superc2033.com/our-team/).
 
 
 <figure class="fifth">

@@ -1,9 +1,9 @@
 ---
-title: "Allan Lab - Research"
+title: "Quantum Photonics Laboratory - Quantum Sensing"
 layout: textlay
-excerpt: "Allan Lab -- Research"
+excerpt: "Quantum Photonics Laboratory -- Quantum Sensing"
 sitemap: false
-permalink: /research/
+permalink: /quantum-sensing/
 ---
 
 # Research
