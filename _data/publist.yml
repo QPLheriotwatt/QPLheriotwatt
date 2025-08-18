@@ -14,11 +14,110 @@
 - title: Quadrupolar and Dipolar Excitons in Bilayer 2H-MoSe2
   image: Pub_MoSe2.png
   description:
-    We investigate the excitonic states in bilayer 2H-MoSe2, revealing the presence of both quadrupolar and dipolar excitons.
+    We investigate the excitonic states in bilayer 2H-MoSe2.
   authors:
-    Feng, Shun and Campbell, Aidan J. and Francis, Bibi Mary and Baek, Hyeonjun and Taniguchi, Takashi and Watanabe, Kenji and Gerber, Iann C. and Gerardot, Brian D. and Brotons-Gisbert, Mauro
+    S. Feng, A. J. Campbell, B. M. Francis et al.
   link:
     url: https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.134.166901\
     display: Phys. Rev. Lett. 134, 166901
   highlight: 1
+  news1:
+
+- title: Filtering and Imaging of Frequency-Degenerate Spin Waves Using Nanopositioning of a Single-Spin Sensor
+  image: Pub_SpinWaves.jpeg
+  description:
+  authors:
+    B. G. Simon, S. Kurdi, J. J. Carmiggelt, et al.
+  link:
+    url: https://pubs.acs.org/doi/full/10.1021/acs.nanolett.2c02791\
+    display: Nano Lett. 2022, 22, 22, 9198–9204
+  highlight: 1
+  news1:
+
+- title: The interplay of field-tunable strongly correlated states in a multi-orbital moiré system
+  image: Pub_MoireSystem.png
+  description:
+  authors:
+    Campbell, A.J., Vitale, V., Brotons-Gisbert, M. et al.
+  link:
+    url: https://pubs.acs.org/doi/full/10.1021/acs.nanolett.2c02791\
+    display: Nat. Phys. 20, 589–596 (2024).
+  highlight: 1
+  news1:
+
+- title: Scalable Registration of Single Quantum Emitters within Solid Immersion Lenses through Femtosecond Laser Writing
+  image: QuantumEmitter.jpeg
+  description:
+  authors:
+    A. R. Jones, X. Cheng, S. K. Parthasarathy et al.
+  link:
+    url: https://pubs.acs.org/doi/full/10.1021/acs.nanolett.5c01325
+    display: Nano Lett. 2025, 25, 30, 11528–11535
+  highlight: 1
+  news1:
+
+- title: Real-time adaptive estimation of decoherence timescales for a single qubit
+  image: Pub_adaptive_estimation.png
+  description:
+  authors:
+    Arshad, M.J., Bekker, C. et al.
+  link:
+    url: https://journals.aps.org/prapplied/abstract/10.1103/PhysRevApplied.21.024026/
+    display: Phys. Rev. Applied 21, 024026
+  highlight: 1
+  news1:
+
+- title: Ultra-narrow inhomogeneous spectral distribution of telecom-wavelength vanadium centres in isotopically-enriched silicon carbide
+  image: Pub_ultranarrow_SiC.png
+  description:
+  authors:
+    Cilibrizzi, P., Arshad, M.J., Tissot, B. et al.
+  link:
+    url: https://www.nature.com/articles/s41467-023-43923-7\
+    display: Nat Commun 14, 8448 (2023)
+  highlight: 1
+  news1:
+
+- title: Highly tunable ground and excited state excitonic dipoles in multilayer 2H-MoSe2
+  image: Pub_multilayer_MoSe2.png
+  description:
+  authors:
+    Feng, S., Campbell, A.J., Brotons-Gisbert, M. et al.
+  link:
+    url: https://www.nature.com/articles/s41467-023-43923-7\
+    display: Nat Commun 15, 4377 (2024)
+  highlight: 1
+  news1:
+
+- title: Roadmap on quantum magnetic materials
+  image: Roadmap_QMM.png
+  description:
+  authors:
+    A. Grubišić-Čabo et al
+  link:
+    url: https://iopscience.iop.org/article/10.1088/2053-1583/adbe89
+    display: Roadmap on Quantum Magnetic Materials. 2D Mater. (2025)
+  highlight: 0
+  news1:
+
+- title: Roadmap on nanoscale magnetic resonance imaging
+  image: Roadmap_NMR.png
+  description:
+  authors:
+    R. Budakian et al
+  link:
+    url: https://iopscience.iop.org/article/10.1088/2053-1583/adbe89
+    display: Roadmap on Quantum Magnetic Materials. 2D Mater. (2025)
+  highlight: 0
+  news1:
+
+- title: Quantum photonics with layered 2D materials
+  image: 
+  description:
+  authors:
+    M. Turunen et al
+  link:
+    url: https://www.nature.com/articles/s42254-021-00408-0
+    display: Nat Rev Phys 4, 219–236 (2022)
+  highlight: 0
   news1:
