@@ -10,7 +10,7 @@ permalink: /vacancies/phd
 
 We wish to recruit motivated students to join our group from April 2025. Applicants should have, or expect to obtain a 1st Class Honours degree in a relevant numerate discipline, for example Physics, Electrical and Electronic Engineering, or Materials Science.
 
-These PhD projects (mostly experimental) offer a rare opportunity to gain a wide spectrum of experience with semiconductor device design, nano-fabrication, nano-optics, laser spectroscopy, cryogenics, electron spin resonance, machine learning and sophisticated electronics. The research is multi-disciplinary, involving condensed-matter physics, quantum optics, materials science, and quantum information processing. We offer a world-class laboratory and a strong network of international collaborators. Please send inquiry emails to [Prof. Brian Gerardot](mailto:b.d.gerardot'at'hw.ac.uk), [Prof Cristian Bonato](mailto:c.bonato'at'hw.ac.uk), [Dr Margherita Mazzera](mailto:m.mazzera'at'hw.ac.uk), [Dr Mauro Brotons-Gisbert](mailto:m.brotons_i_gisbert'at'hw.ac.uk), [Dr Christiaan Bekker](mailto:c.bekker'at'hw.ac.uk) or [Dr Samer Kurdi](mailto:s.kurdi'at'hw.ac.uk).
+These PhD projects (mostly experimental) offer a rare opportunity to gain a wide spectrum of experience with semiconductor device design, nano-fabrication, nano-optics, laser spectroscopy, cryogenics, electron spin resonance, machine learning and sophisticated electronics. The research is multi-disciplinary, involving condensed-matter physics, quantum optics, materials science, and quantum information processing. We offer a world-class laboratory and a strong network of international collaborators. Please send inquiry emails to [Prof. Brian Gerardot](mailto:b.d.gerardot'at'hw.ac.uk), [Prof Cristian Bonato](mailto:c.bonato'at'hw.ac.uk), [Prof Margherita Mazzera](mailto:m.mazzera'at'hw.ac.uk), [Dr Mauro Brotons-Gisbert](mailto:m.brotons_i_gisbert'at'hw.ac.uk), [Dr Christiaan Bekker](mailto:c.bekker'at'hw.ac.uk) or [Dr Samer Kurdi](mailto:s.kurdi'at'hw.ac.uk).
 
 ## Project 1: Autonomous assembly of 2D moiré materials with quantum-level homogeneity
 
@@ -24,7 +24,7 @@ This project aims to implement machine vision and in-situ optical metrology tool
 
 This project aims at the development of new telecom-compatible platforms for integrated quantum devices based on rare earth ion doped materials. This will involve the investigation of the mechanisms affecting the optical and spin coherence properties of new materials and the design of confined structure with the aim of achieving improved performances due to the strong light matter interaction and facilitating the coupling with other integrated quantum technologies as quantum light sources or detectors.
 
-Contact: Dr. Margherita Mazzera, [m.mazzera'at'hw.ac.uk](mailto:m.mazzera'at'hw.ac.uk), +44 (0)131 451 8220
+Contact: Margherita Mazzera, [m.mazzera'at'hw.ac.uk](mailto:m.mazzera'at'hw.ac.uk), +44 (0)131 451 8220
 
 ## Project 3: Strongly correlated states in designer two-dimensional moiré heterostructures
 

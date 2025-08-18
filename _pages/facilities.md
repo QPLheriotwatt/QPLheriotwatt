@@ -1,9 +1,9 @@
 ---
-title: "Quantum Photonics Laboratory - Quantum Materials"
+title: "Quantum Photonics Laboratory - Facilities"
 layout: textlay
-excerpt: "Quantum Photonics Laboratory -- Quantum Materials"
+excerpt: "Quantum Photonics Laboratory -- Facilities"
 sitemap: false
-permalink: /research/quantum-materials/
+permalink: /facilities/
 ---
 
 # Research
