@@ -105,3 +105,6 @@ Zurich Instruments, [Speeding up NV Center Measurements with Real-time Control](
   <!-- <em>{{ publi.authors }} </em><br /><a href="{{ publi.link.url }}">{{ publi.link.display }}</a> -->
 
 <!-- {% endfor %} -->
+
+## Talks:
+

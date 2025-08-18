@@ -316,5 +316,5 @@ Jump to [staff](#staff), [students](#master-and-bachelor-students), [alumni](#al
 </div>
 
 
-## Administrative Support
+<!-- ## Administrative Support -->
 <!-- <a href="mailto:Rijsewijk@Physics.LeidenUniv.nl">Ellie van Rijsewijk</a> is helping us (and other groups) with administration. -->

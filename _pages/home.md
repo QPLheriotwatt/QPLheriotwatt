@@ -66,10 +66,13 @@ Our research has three main themes:
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Heriot-Watt_University_logo.png">
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/RAE-Logo-1.png">
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Quantum_technologies-logo.png">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Quantum_communications-hub-logo.png">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_NWO.jpg">
+  <!-- <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Quantum_communications-hub-logo.png"> -->
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/EIC_logo.png">
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/dstl-logo.png">
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/epsrc-logo.png">
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Q-BIOMED-Logo-1.png">
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/AppliedQuantumTechnoloies-logo.png">
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/royalSociety-Logo.png">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/IQNH-Logo_colour.png">
 </figure>
