@@ -1,6 +1,7 @@
 - name: Prof. Brian Gerardot
   photo: brian-gerardot.jpg
   info: Professor, RAEng Chair in Emerging Technology
+  research_interests: 2D Materials, quantum photonics
   email: b.d.gerardot@hw.ac.uk
   number_educ: 2
   education1: PhD Materials Science, UC Santa Barbara
@@ -10,6 +11,7 @@
 - name: Prof. Cristian Bonato
   photo: Cristian.jpg
   info: Professor, EPSRC Early-Career Fellow
+  research_interests: 
   email: c.bonato@hw.ac.uk
   number_educ: 2
   education1: PhD Electrical Engineering, University of Padova
@@ -18,6 +20,7 @@
 - name: Prof. Margherita Mazzera
   photo: Margherita.jpg
   info: Professor & EPSRC Fellow
+  research_interests: Quantum memories
   email: m.mazzera@hw.ac.uk
   number_educ: 2
   education1: PhD Physics, University of Parma
@@ -26,6 +29,7 @@
 - name: Dr Samer Kurdi
   photo: Samer.jpg
   info: Assisstant Professor
+  research_interests: Quantum magnetometry
   email: s.kurdi@hw.ac.uk
   number_educ: 2
   education1: PhD Materials Science, University of Cambridge

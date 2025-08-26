@@ -1,7 +1,8 @@
 - name: Dafydd Heyburn
   photo: Dafydd.jpeg
   info: PhD Student
-  email: milan.allan@gmail.com
+  project: Application of machine learning to quantum sensing
+  email: 
   number_educ: 1
   education1:
   education2:
@@ -9,7 +10,8 @@
 - name: Meysam Setodeh Kheirabady
   photo: Meysam.png
   info: PhD Student
-  email: milan.allan@gmail.com
+  project: Developing integrated quantum memories based on rare earth ion doped crystals for ultra-high efficiency quantum memories and non-destructive single photon detectors
+  email: 
   number_educ: 1
   education1:
   education2:
@@ -17,7 +19,8 @@
 - name: Stefan Todd
   photo: Stefan.jpg
   info: PhD Student
-  email: milan.allan@gmail.com
+  project: Improving the sensitivity of spin-based quantum sensors by employing machine learning techniques to reduce computing time
+  email: 
   number_educ: 1
   education1:
   education2:
@@ -25,7 +28,7 @@
 - name: Prokhor Tkhor
   photo: Prokhor.jpg
   info: PhD Student
-  email: milan.allan@gmail.com
+  email: 
   number_educ: 1
   education1:
   education2:
@@ -33,7 +36,7 @@
 - name: Alex Jones
   photo: Alex.jpg
   info: PhD Student
-  email: milan.allan@gmail.com
+  email: 
   number_educ: 1
   education1:
   education2:
@@ -41,7 +44,7 @@
 - name: Bibi Mary Francis
   photo: Bibi.jpg
   info: PhD Student
-  email: milan.allan@gmail.com
+  email: 
   number_educ: 1
   education1:
   education2:
@@ -49,7 +52,7 @@
 - name: Issam Belgacem
   photo: Issam.jpg
   info: PhD Student
-  email: milan.allan@gmail.com
+  email: 
   number_educ: 1
   education1:
   education2:
@@ -57,7 +60,7 @@
 - name: Tatyana Ivanova
   photo: Tatyana.jpeg
   info: PhD Student
-  email: milan.allan@gmail.com
+  email: 
   number_educ: 1
   education1:
   education2:
@@ -65,7 +68,7 @@
 - name: Kieran McGovern
   photo: Kieran.jpg
   info: EngD Student
-  email: milan.allan@gmail.com
+  email: 
   number_educ: 1
   education1:
   education2:
@@ -73,7 +76,7 @@
 - name: Finley Giles-Book
   photo: Finley.jpg
   info: PhD Student
-  email: milan.allan@gmail.com
+  email: 
   number_educ: 1
   education1:
   education2:
@@ -81,7 +84,7 @@
 - name: Sean Keenan
   photo: Sean.jpg
   info: PhD Student
-  email: milan.allan@gmail.com
+  email: 
   number_educ: 1
   education1:
   education2:
@@ -89,7 +92,7 @@
 - name: Frederik Brooke Barnes
   photo: Frederik.png
   info: PhD Student
-  email: milan.allan@gmail.com
+  email: 
   number_educ: 1
   education1:
   education2:
@@ -97,7 +100,7 @@
 - name: Sheena Shaji
   photo: Sheena.jpeg
   info: PhD Student
-  email: milan.allan@gmail.com
+  email: 
   number_educ: 1
   education1:
   education2:
@@ -105,7 +108,7 @@
 - name: "This could be you!"
   photo: rock.jpg
   info: See <a href="http://www.allanlab.org/vacancies">openings</a> for more info
-  email: milan.allan@gmail.com
+  email: 
   number_educ: 0
   education1:
   education2:

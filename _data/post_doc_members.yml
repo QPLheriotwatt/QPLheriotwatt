@@ -1,6 +1,7 @@
 - name: Dr Patrick Murton
   photo: Patrick.jpg
   info: Research Associate
+  project: Spin-based quantum sensing for biomedical research
   email: b
   number_educ: 2
   education1: PhD Chemistry, University of Oxford 
@@ -11,6 +12,7 @@
 - name: Dr Johan van der Westhuizen
   photo: Johan.jpg
   info: Research Associate
+  project: Autonomous flake identification and equipment integration for 2D material fabrication
   email: b
   number_educ: 2
   education1: PhD Chemistry, University of Pretoria 
@@ -21,6 +23,7 @@
 - name: Dr Byeong Wook Cho
   photo: Byeong-Wook-Cho.jpg
   info: Marie Curie Postdoctoral Fellow
+  project: Moiré Physics
   email: Oosten@fmd.physics.leidenuniv.nl
   number_educ: 2
   education1: PhD, 성균관대학교(Sungkyunkwan University) 
@@ -29,6 +32,7 @@
 - name: Dr Zhe Li
   photo: ZheLi.png
   info: Marie Curie Postdoctoral Fellow
+  project: Optical nonlinear effects in moiré heterostructures
   email: h.s.m.van.bohemen@physics.leidenuniv.nl
   number_educ: 2
   education1: XXX
@@ -37,6 +41,7 @@
 - name: Dr George Kourmoulakis
   photo: George.jpg
   info: Research Associate
+  project: Pick-and-place assembly of single sheets of atoms into moiré materials with high levels of uniformity
   email: g.kourmoulakis@hw.ac.uk
   number_educ: 2
   education1: PhD Materials Science, University of Crete
@@ -45,6 +50,7 @@
 - name: Dr Zeeshan Babar
   photo: Zeeshan.jpg
   info: Research Associate
+  project: Autonomous assembly of 2D materials
   email: m.babar@hw.ac.uk
   number_educ: 2
   education1:
@@ -53,6 +59,7 @@
 - name: Dr Nicholas Werren
   photo: Nicholas.jpg
   info: Research Associate
+  project: Develop novel machine learning algorithms to optimise and automate quantum sensing and imaging
   email: n.werren@hw.ac.uk
   number_educ: 2
   education1: PhD Physics, University of Surrey 
@@ -61,6 +68,7 @@
 - name: Dr Muhammad Junaid Arshad
   photo: Arshad.jpeg
   info: Experimental Officer for the Quantum Magnetometry Facility
+  project: Operates our Quantum Magnetometry Facility, using quantum sensors to study complex magnetic materials at low temperature
   email: muhammad_junaid.arshad@hw.ac.uk
   number_educ: 2
   education1: PhD Physics, Heriot-Watt University

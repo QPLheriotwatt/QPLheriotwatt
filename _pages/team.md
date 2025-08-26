@@ -27,6 +27,7 @@ Jump to [staff](#staff), [students](#master-and-bachelor-students), [alumni](#al
   <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" width="25%" style="float: left" />
   <h4>{{ member.name }}</h4>
   <i>{{ member.info }} <!--<br>email: <{{ member.email }}></i> -->
+  <p>Research interests: {{ member.research_interests }}</p>
   <ul style="overflow: hidden">
 
   {% if member.number_educ == 1 %}
@@ -148,11 +149,11 @@ Jump to [staff](#staff), [students](#master-and-bachelor-students), [alumni](#al
 {% if even_odd == 0 %}
 <div class="row">
 {% endif %}
-
 <div class="col-sm-6 clearfix">
   <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" width="25%" style="float: left" />
   <h4>{{ member.name }}</h4>
   <i>{{ member.info }} <!--<br>email: <{{ member.email }}></i> -->
+  <p>Project: {{ member.project }}</p>
   <ul style="overflow: hidden">
 
   {% if member.number_educ == 1 %}
@@ -215,6 +216,7 @@ Jump to [staff](#staff), [students](#master-and-bachelor-students), [alumni](#al
   <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" width="25%" style="float: left" />
   <h4>{{ member.name }}</h4>
   <i>{{ member.info }} <!-- <br>email: <{{ member.email }}></i> -->
+  <p>Project: {{ member.project }}</p>
   <ul style="overflow: hidden">
 
   {% if member.number_educ == 1 %}
