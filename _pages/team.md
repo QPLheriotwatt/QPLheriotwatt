@@ -1,7 +1,7 @@
 ---
-title: "Allan Lab - Team"
+title: "Quantum Photonics Laboratory - Home"
 layout: gridlay
-excerpt: "Allan Lab: Team members"
+excerpt: "Heriot-Watt University"
 sitemap: false
 permalink: /team/
 ---
@@ -27,7 +27,6 @@ Jump to [staff](#staff), [students](#master-and-bachelor-students), [alumni](#al
   <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" width="25%" style="float: left" />
   <h4>{{ member.name }}</h4>
   <i>{{ member.info }} <!--<br>email: <{{ member.email }}></i> -->
-  <p>Research interests: {{ member.research_interests }}</p>
   <ul style="overflow: hidden">
 
   {% if member.number_educ == 1 %}

@@ -35,13 +35,13 @@
   project: Optical nonlinear effects in moiré heterostructures
   email: h.s.m.van.bohemen@physics.leidenuniv.nl
   number_educ: 2
-  education1: XXX
-  education2:
+  education1: PhD Physics, Wuhan University
+  education2: BSc Physics, Wuhan University
 
 - name: Dr George Kourmoulakis
   photo: George.jpg
   info: Research Associate
-  project: Pick-and-place assembly of single sheets of atoms into moiré materials with high levels of uniformity
+  project: Pick-and-place assembly of single sheets of atoms into moiré materials
   email: g.kourmoulakis@hw.ac.uk
   number_educ: 2
   education1: PhD Materials Science, University of Crete
@@ -53,13 +53,13 @@
   project: Autonomous assembly of 2D materials
   email: m.babar@hw.ac.uk
   number_educ: 2
-  education1:
-  education2:
+  education1: PhD Robotics, University of Genova, Italy
+  education2: MEng Electronics Engineering, Capital University of Science and Technology, Pakistan
 
 - name: Dr Nicholas Werren
   photo: Nicholas.jpg
   info: Research Associate
-  project: Develop novel machine learning algorithms to optimise and automate quantum sensing and imaging
+  project: Develop pick-and-place algorithms for moiré material fabrication
   email: n.werren@hw.ac.uk
   number_educ: 2
   education1: PhD Physics, University of Surrey 
@@ -68,7 +68,7 @@
 - name: Dr Muhammad Junaid Arshad
   photo: Arshad.jpeg
   info: Experimental Officer for the Quantum Magnetometry Facility
-  project: Operates our Quantum Magnetometry Facility, using quantum sensors to study complex magnetic materials at low temperature
+  project: Operates our Quantum Magnetometry Facility, studies complex magnetic materials
   email: muhammad_junaid.arshad@hw.ac.uk
   number_educ: 2
   education1: PhD Physics, Heriot-Watt University

@@ -1,7 +1,7 @@
 ---
-title: "Allan Lab - Research"
+title: "Quantum Photonics Laboratory - Research"
 layout: textlay
-excerpt: "Allan Lab -- Research"
+excerpt: "Quantum Photonics Laboratory -- Research"
 sitemap: false
 permalink: /research/
 ---

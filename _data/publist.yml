@@ -23,17 +23,6 @@
   highlight: 1
   news1:
 
-- title: Filtering and Imaging of Frequency-Degenerate Spin Waves Using Nanopositioning of a Single-Spin Sensor
-  image: Pub_SpinWaves.jpeg
-  description:
-  authors:
-    B. G. Simon, S. Kurdi, J. J. Carmiggelt, et al.
-  link:
-    url: https://pubs.acs.org/doi/full/10.1021/acs.nanolett.2c02791\
-    display: Nano Lett. 2022, 22, 22, 9198–9204
-  highlight: 1
-  news1:
-
 - title: The interplay of field-tunable strongly correlated states in a multi-orbital moiré system
   image: Pub_MoireSystem.png
   description:
@@ -112,12 +101,23 @@
   news1:
 
 - title: Quantum photonics with layered 2D materials
-  image: 
+  image: Review_2D_materials.jpg
   description:
   authors:
-    M. Turunen et al
+    M. Turunen, M. Brotons-Gisbert et al
   link:
     url: https://www.nature.com/articles/s42254-021-00408-0
     display: Nat Rev Phys 4, 219–236 (2022)
   highlight: 0
+  news1:
+
+- title: Filtering and Imaging of Frequency-Degenerate Spin Waves Using Nanopositioning of a Single-Spin Sensor
+  image: Pub_SpinWaves.jpeg
+  description:
+  authors:
+    B. G. Simon, S. Kurdi, J. J. Carmiggelt, et al.
+  link:
+    url: https://pubs.acs.org/doi/full/10.1021/acs.nanolett.2c02791\
+    display: Nano Lett. 2022, 22, 22, 9198–9204
+  highlight: 1
   news1:

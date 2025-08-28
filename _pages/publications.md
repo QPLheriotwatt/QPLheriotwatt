@@ -1,7 +1,7 @@
 ---
 title: "Quantum Photonics Laboratory - Publications"
 layout: gridlay
-excerpt: "Quantum Photonics Laboratory -- Publications."
+excerpt: "Quantum Photonics Laboratory -- Publications"
 sitemap: false
 permalink: /publications/
 ---
@@ -26,14 +26,17 @@ permalink: /publications/
 {% endif %}
 
 <div class="col-sm-6 clearfix">
- <div class="well">
+ <div class="well" style="min-height: 200px; overflow: hidden;">
   <pubtit>{{ publi.title }}</pubtit>
-  <img src="{{ site.url }}{{ site.baseurl }}/images/pubpic/{{ publi.image }}" class="img-responsive" width="33%" style="float: left" />
-  <p>{{ publi.description }}</p>
-  <p><em>{{ publi.authors }}</em></p>
-  <p><strong><a href="{{ publi.link.url }}">{{ publi.link.display }}</a></strong></p>
-  <p class="text-danger"><strong> {{ publi.news1 }}</strong></p>
-  <p> {{ publi.news2 }}</p>
+  <img src="{{ site.url }}{{ site.baseurl }}/images/pubpic/{{ publi.image }}" class="img-responsive" width="40%" style="float: left; margin-right: 15px; margin-bottom: 10px;" />
+  <div style="overflow: hidden;">
+   <p>{{ publi.description }}</p>
+   <p><em>{{ publi.authors }}</em></p>
+   <p><strong><a href="{{ publi.link.url }}">{{ publi.link.display }}</a></strong></p>
+   <p class="text-danger"><strong> {{ publi.news1 }}</strong></p>
+   <p> {{ publi.news2 }}</p>
+  </div>
+  <div style="clear: both;"></div>
  </div>
 </div>
 
@@ -66,14 +69,17 @@ permalink: /publications/
 {% endif %}
 
 <div class="col-sm-6 clearfix">
- <div class="well">
+ <div class="well" style="min-height: 200px; overflow: hidden;">
   <pubtit>{{ publi.title }}</pubtit>
-  <img src="{{ site.url }}{{ site.baseurl }}/images/pubpic/{{ publi.image }}" class="img-responsive" width="33%" style="float: left" />
-  <p>{{ publi.description }}</p>
-  <p><em>{{ publi.authors }}</em></p>
-  <p><strong><a href="{{ publi.link.url }}">{{ publi.link.display }}</a></strong></p>
-  <p class="text-danger"><strong> {{ publi.news1 }}</strong></p>
-  <p> {{ publi.news2 }}</p>
+  <img src="{{ site.url }}{{ site.baseurl }}/images/pubpic/{{ publi.image }}" class="img-responsive" width="40%" style="float: left; margin-right: 15px; margin-bottom: 10px;" />
+  <div style="overflow: hidden;">
+   <p>{{ publi.description }}</p>
+   <p><em>{{ publi.authors }}</em></p>
+   <p><strong><a href="{{ publi.link.url }}">{{ publi.link.display }}</a></strong></p>
+   <p class="text-danger"><strong> {{ publi.news1 }}</strong></p>
+   <p> {{ publi.news2 }}</p>
+  </div>
+  <div style="clear: both;"></div>
  </div>
 </div>
 

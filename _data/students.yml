@@ -1,7 +1,7 @@
 - name: Dafydd Heyburn
   photo: Dafydd.jpeg
   info: PhD Student
-  project: Application of machine learning to quantum sensing
+  project: Application of machine learning to quantum sensing.
   email: 
   number_educ: 1
   education1:
@@ -10,16 +10,16 @@
 - name: Meysam Setodeh Kheirabady
   photo: Meysam.png
   info: PhD Student
-  project: Developing integrated quantum memories based on rare earth ion doped crystals for ultra-high efficiency quantum memories and non-destructive single photon detectors
+  project: Developing ultra-high efficiency quantum memories.
   email: 
   number_educ: 1
-  education1:
+  education1: MSc, Institute of Optics Graduate School, France
   education2:
 
 - name: Stefan Todd
   photo: Stefan.jpg
   info: PhD Student
-  project: Improving the sensitivity of spin-based quantum sensors by employing machine learning techniques to reduce computing time
+  project: Improving the sensitivity of spin-based quantum sensors by employing machine learning techniques.
   email: 
   number_educ: 1
   education1:
@@ -28,22 +28,25 @@
 - name: Prokhor Tkhor
   photo: Prokhor.jpg
   info: PhD Student
+  project: Fabrication and optical spectroscopy of transition metal dichalcogenide heterostructures.
   email: 
   number_educ: 1
-  education1:
+  education1: MSc Physics, RWTH Aachen University
   education2:
 
 - name: Alex Jones
   photo: Alex.jpg
   info: PhD Student
+  project: Developing on-chip photonic to create a scalable architecture for spin qubits in silicon carbide.
   email: 
   number_educ: 1
-  education1:
+  education1: BSc Applied Physics, University of Portsmouth
   education2:
 
 - name: Bibi Mary Francis
   photo: Bibi.jpg
   info: PhD Student
+  project: Quantum photonics with 2D semiconductors.
   email: 
   number_educ: 1
   education1:
@@ -52,6 +55,7 @@
 - name: Issam Belgacem
   photo: Issam.jpg
   info: PhD Student
+  project: Single-spin quantum magnetometer to map magnetism in 2D heterostructures.
   email: 
   number_educ: 1
   education1:
@@ -60,6 +64,7 @@
 - name: Tatyana Ivanova
   photo: Tatyana.jpeg
   info: PhD Student
+  project: Fabrication, characterisation, and tuning of 2D quantum materials.
   email: 
   number_educ: 1
   education1:
@@ -76,14 +81,7 @@
 - name: Finley Giles-Book
   photo: Finley.jpg
   info: PhD Student
-  email: 
-  number_educ: 1
-  education1:
-  education2:
-
-- name: Sean Keenan
-  photo: Sean.jpg
-  info: PhD Student
+  project: Developing integrated quantum memories for ultra-high efficiency quantum memories.
   email: 
   number_educ: 1
   education1:
