@@ -25,10 +25,10 @@ We additionally operate the “[Nanoscale Quantum Sensing]({{ site.url }}{{ site
 
 All setups integrate components required for optical spectroscopy and optical/microwave control of single emitters, including:
 
-**High grade tunable lasers.** Pulsed and cw, covering a wavelength range between 400 and 1350 nm, including two Msquared Solstis cw Ti:Sa systems, one Coherent Chamaleon pulsed Ti:Sa and several Toptica tunable cw lasers. Tunable lases can be frequency-locked with high-resolution and high-accuracy wavemeters.
-**Low-noise high-resolution spectrometers.** We operate four high-resolution Princeton Instruments spectrometers with liquid nitrogen cooled cameras to make the detect spectra of single quantum emitters with low background noise, from visible to telecom wavelengths.
-**Superconducting detectors.** A superconducting single photon detection system (SingleQuantum EOS), spanning the 700-1500nm range enables us to detect single photons from a variety of quantum emitters with low jitter and minimal background noise.
-**Radiofrequency equipment and high-speed electronics** to perform quantum gates on spins with high fidelity, integrating real-time feedback and machine-learning capabilities. Our labs host an ADwin Pro II hard real-time micro-controller system, three Zurich Instruments’ HDAWGs, one Quantum Machines’ OPX+, several Rohde&Schwarz microwave sources and several high-quality amplifiers (Amplifiers Research and Minicircuits, up to 6 GHz).
+- **High grade tunable lasers.** Pulsed and cw, covering a wavelength range between 400 and 1350 nm, including two Msquared Solstis cw Ti:Sa systems, one Coherent Chamaleon pulsed Ti:Sa and several Toptica tunable cw lasers. Tunable lases can be frequency-locked with high-resolution and high-accuracy wavemeters.
+- **Low-noise high-resolution spectrometers.** We operate four high-resolution Princeton Instruments spectrometers with liquid nitrogen cooled cameras to make the detect spectra of single quantum emitters with low background noise, from visible to telecom wavelengths.
+- **Superconducting detectors.** A superconducting single photon detection system (SingleQuantum EOS), spanning the 700-1500nm range enables us to detect single photons from a variety of quantum emitters with low jitter and minimal background noise.
+- **Radiofrequency equipment and high-speed electronics** to perform quantum gates on spins with high fidelity, integrating real-time feedback and machine-learning capabilities. Our labs host an ADwin Pro II hard real-time micro-controller system, three Zurich Instruments’ HDAWGs, one Quantum Machines’ OPX+, several Rohde&Schwarz microwave sources and several high-quality amplifiers (Amplifiers Research and Minicircuits, up to 6 GHz).
 
 
 <!-- <figure> -->

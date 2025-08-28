@@ -114,3 +114,14 @@ Zurich Instruments, [Speeding up NV Center Measurements with Real-time Control](
 
 ## Talks:
 
+**Measuring the Smallest Magnetic Fields - Research Bites with Dr Cristian Bonato**
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MP7MaVotkhs" frameborder="0" allowfullscreen></iframe>
+
+**Quantum Light and Strongly Correlated Electronic States in a Moiré Heterostructure**
+<iframe width="560" height="315" src="https://www.youtube.com/embed/le23YZ_bX6c" frameborder="0" allowfullscreen></iframe>
+
+**NanoMRI7 - Cristian Bonato**
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QrpzBuM2RxQ" frameborder="0" allowfullscreen></iframe>
+
+**Podcast: Under the Microscope - Atomic Architects: Designing the Future of Quantum ft. Brian Gerardot**
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6GbR_X6_yJQ" frameborder="0" allowfullscreen></iframe>

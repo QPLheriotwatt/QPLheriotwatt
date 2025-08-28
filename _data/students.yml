@@ -103,6 +103,14 @@
   education1:
   education2:
 
+- name: Sean Keenan
+  photo: Sean.jpg
+  info: PhD Student
+  email: 
+  number_educ: 1
+  education1: MPhys, Heriot-Watt University
+  education2:
+
 - name: "This could be you!"
   photo: rock.jpg
   info: See <a href="http://www.allanlab.org/vacancies">openings</a> for more info

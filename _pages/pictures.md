@@ -6,9 +6,6 @@ permalink: /pictures/
 ---
 
 # Pictures
-<!-- Jump to: [Leiden](#leiden), [ETHZ](#ethz), [Cornell](#cornell), [St Andrews](#st-andrews) -->
-
-<!-- ## Group photos -->
 
 
 ## Team building & Socials
@@ -17,6 +14,9 @@ permalink: /pictures/
 <!-- <iframe width="560" height="315" src="https://www.youtube.com/embed/3iKvUMv1h5A" frameborder="0" allowfullscreen></iframe> -->
 
 <!-- #### Gallery -->
+(Right-click 'view image' to see a larger image.)
+
+
 {% assign number_printed = 0 %}
 {% for pic in site.data.socials %}
 
@@ -25,9 +25,13 @@ permalink: /pictures/
 {% if even_odd == 0 %}
 <div class="row">
 {% endif %}
-
 <div class="col-sm-3 clearfix">
-<img src="{{ site.url }}{{ site.baseurl }}/images/socials/{{ pic.image }}" class="img-responsive" width="95%" style="float: left" />
+<div style="margin-bottom: 15px; overflow: hidden;">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/socials/{{ pic.image }}" class="img-responsive" width="100%" style="display: block; margin: 0 auto;" />
+  {% if pic.title %}
+  <p class="text-center"><em>{{ pic.title }}</em></p>
+  {% endif %}
+</div>
 </div>
 
 {% assign number_printed = number_printed | plus: 1 %}
@@ -67,7 +71,12 @@ permalink: /pictures/
 {% endif %}
 
 <div class="col-sm-3 clearfix">
-<img src="{{ site.url }}{{ site.baseurl }}/images/outreach/{{ pic.image }}" class="img-responsive" width="95%" style="float: left" />
+<div style="margin-bottom: 15px; overflow: hidden;">
+<img src="{{ site.url }}{{ site.baseurl }}/images/outreach/{{ pic.image }}" class="img-responsive" width="100%" style="display: block; margin: 0 auto;" />
+{% if pic.title %}
+<p class="text-center"><em>{{ pic.title }}</em></p>
+{% endif %}
+</div>
 </div>
 
 {% assign number_printed = number_printed | plus: 1 %}
