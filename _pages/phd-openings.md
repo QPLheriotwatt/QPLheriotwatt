@@ -56,13 +56,13 @@ Our group has recently been awarded a >£2M grant to establish a Quantum Magneto
 
 Recently a new group of magnets, called van der Waals magnets have risen to the forefront of condensed matter research. These magnets provide unprecedented opportunities for probing magnetism in the 2D limit. Many vdW magnets have been discovered with metallic to insulating electronic properties and continuous efforts have focused on manipulating their static magnetization electrostatically, using strain and pressure. Despite the exciting progress, little is known about their magnetic excitations – spin waves. The goal of this research is to therefore determine the nature of spin waves in two dimensional magnets and control their transport for the ultimate goal of developing nanoscale spin-wave devices.
 
-**Contact**: Samer Kurdi ([sk862'at'cantab.ac.uk](mailto:sk862'at'cantab.ac.uk))
+**Contact**: Samer Kurdi ([s.kurdi'at'hw.ac.uk](mailto:s.kurdi'at'hw.ac.uk))
 
 ## Project 8: Superconducting qubit diagnostics: Unravelling noise sources for maximizing coherence times
 
 Quantum computers based on superconducting circuits are lose their quantum properties on short timescales resulting limiting the potential of their applications. The presence of microscopic and non-optimal circuit design are major sources of noise leading to low fidelity operations and limiting the number of operations that superconducting circuit quantum computers can perform. The goal of this project is to use quantum magnetometry for investigate sources of noise in superconducting circuits for the ultimate goal of optimizing qubit fabrication for scaling up quantum computers.
 
-**Contact**: Samer Kurdi ([sk862'at'cantab.ac.uk](mailto:sk862'at'cantab.ac.uk))
+**Contact**: Samer Kurdi ([s.kurdi'at'hw.ac.uk](mailto:s.kurdi'at'hw.ac.uk))
 
 ## Project 9: Quantum sensing for biomedical application
 
