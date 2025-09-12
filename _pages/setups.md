@@ -16,12 +16,13 @@ Three of our current confocal microscopes operate at ***room temperature***:
 - one for **automated sample characterisation**, mostly used for spin centres in SiC. The setup includes machine vision algorithms to detect the position on the sample with respect to markers and automated operation of basic experimental measurements (photoluminescence maps, saturation measurements, alignment on single centres, etc). We use this setup to register photonic structures, such as solid immersion lenses and microcavities, to quantum emitters and to characterise large batches of SiC quantum opto-electronic devices.
 - one for **chemical sensing**. This setup utilises NV centres in diamond as nano/micro-scale quantum sensors of chemical reactions of biological interest.
 
+![]({{ site.url }}{{ site.baseurl }}/images/labpic/Bays/DSC_2621.JPG){: style="width: 75%; display: block; margin: 0 auto;"}
+
+
 Five more setups operate at ***low (T~4K) temperature***, enabling studies of coherent spin-photon interfacing. These setups are based on state-of-the-art low-vibration cryostats equipped by custom optical microscopy systems:
 - **three Attocube Attodry 1000**, including 9T superconducting magnets, are used to push single-photon generation to the limits (with self-assembled quantum dots) and to study novel physics in 2D materials and their heterostructures.
 - **one Attocube AttoDry 800** (with low-temperature LT-APO objective) is currently used for our work on coupling excitons in 2D materials to integrated photonic structures. This system features both free-space and fiber-based optical coupling, with multi-spot addressing capabilities.
 - **one Montana s100** (with room-temperature high-NA objective in the vacuum) is used for experiments on spin-photon interfacing in SiC. This system includes the capability to apply magnetic fields up to ~200mT, through an external temperature-stabilised permanent magnet, and microwave connections for spin control.
-
-We additionally operate the “[Nanoscale Quantum Sensing]({{ site.url }}{{ site.baseurl }}/facilities/nanoscale_quantum_sensing)” facility, including a low-temperature scanning NV magnetometer, and a 10mK dilution refrigerator with optical access.
 
 All setups integrate components required for optical spectroscopy and optical/microwave control of single emitters, including:
 

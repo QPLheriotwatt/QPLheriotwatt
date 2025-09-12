@@ -12,6 +12,8 @@ In many conventional materials, electrons can be treated as nearly independent, 
 
 Our quantum materials mostly focus on 2D materials.
 
+![]({{ site.url }}{{ site.baseurl }}/images/slider/QX_figure.png){: style="width: 75%; display: block; margin: 0 auto;"}
+
 ## 2D materials
 
 Atomically thin materials offer a transformative frontier in materials science and physics. Single atomic sheets can be stacked without restriction, forming heterostructures with unprecedented quantum properties, tunability, and functionality. For example, changing the relative twist between layers gives rise to a moiré pattern: a new length scale that hosts a new electronic structure. Within moiré crystals, flat electronic bands feature interactions that can be widely different from the original materials, enabling the emergence of new quantum states. Ultimately, 2D crystals and synthetic heterostructures open a pathway to explore collective particle interactions and dynamics of quantum matter not observable in naturally occurring materials.
