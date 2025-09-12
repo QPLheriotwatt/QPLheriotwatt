@@ -12,7 +12,7 @@ permalink: /
 
 Welcome to the website of the Quantum Photonics Lab at Heriot-Watt University, Edinburgh (UK). We work at the interface of quantum optics, condensed-matter physics, electrical engineering and materials science to create novel quantum devices, with the dual goals to investigate fascinating fundamental physics and to develop applications to secure quantum networking and nanoscale quantum sensing. 
 
-Our research has three main themes:
+Our research has four main themes:
 - [Quantum Materials]({{ site.url }}{{ site.baseurl }}/research/quantum-materials)
 - [Quantum Sensing]({{ site.url }}{{ site.baseurl }}/research//quantum-sensing)
 - [Quantum Communication]({{ site.url }}{{ site.baseurl }}/research//quantum-communication)

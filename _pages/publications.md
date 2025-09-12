@@ -123,5 +123,10 @@ Zurich Instruments, [Speeding up NV Center Measurements with Real-time Control](
 **NanoMRI7 - Cristian Bonato**
 <iframe width="560" height="315" src="https://www.youtube.com/embed/QrpzBuM2RxQ" frameborder="0" allowfullscreen></iframe>
 
+## Podcasts:
+
 **Podcast: Under the Microscope - Atomic Architects: Designing the Future of Quantum ft. Brian Gerardot**
 <iframe width="560" height="315" src="https://www.youtube.com/embed/6GbR_X6_yJQ" frameborder="0" allowfullscreen></iframe>
+
+**Podcast: Quantum Magnetic Materials Podcast - Episode 1 - General Introduction**
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2R3C9HVS-Jk" frameborder="0" allowfullscreen></iframe>

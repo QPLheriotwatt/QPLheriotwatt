@@ -1,3 +1,30 @@
+- name: Dr Arthur Branny
+  photo: Art_Branny.jpg
+  info: Research Associate
+  project: Developing new fabrication capabilities and to fabricate novel two-dimensional materials and devices.
+  email: A.Branny@hw.ac.uk
+  number_educ: 2
+  education1: PhD Physics, Heriot-Watt University
+  education2: X
+
+- name: Frederik Brooke Barnes
+  photo: Frederik.png
+  info: Research 
+  project: Interfacing quantum dot single-photon sources with rare-earth ion doped quantum memories
+  email: 
+  number_educ: 2
+  education1: PhD Physics, Heriot-Watt University
+  education2:
+
+- name: Sheena Shaji
+  photo: Sheena.jpeg
+  info: Research Associate
+  project: Engineering scalable photon-mediated interactions in semiconductor quantum dots
+  email: 
+  number_educ: 2
+  education1: PhD Physics, Heriot-Watt University
+  education2:
+
 - name: Dr Patrick Murton
   photo: Patrick.jpg
   info: Research Associate
