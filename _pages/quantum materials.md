@@ -7,6 +7,7 @@ permalink: /research/quantum-materials/
 ---
 
 # Quantum materials
+### Introduction
 
 In many conventional materials, electrons can be treated as nearly independent, allowing for simpler, macroscopic descriptions without a fully quantum approach. By contrast, quantum materials—a term that has gained prominence only in the 21st century—include systems such as superconductors, topological insulators, and graphene, where strong electron–electron interactions lead to collective quantum states. A defining feature of many quantum materials is their reduced dimensionality: when electrons are confined from three dimensions to two, their interactions are enhanced, often giving rise to new phenomena. Such effects have been demonstrated in semiconductor interfaces, where high-mobility transistors exploit these quantum behaviours. The discovery and understanding of quantum materials is an active and rapidly growing field which could enable future technologies, low-power electronics, and highly sensitive detectors.
 

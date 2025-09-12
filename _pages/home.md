@@ -14,9 +14,9 @@ Welcome to the website of the Quantum Photonics Lab at Heriot-Watt University, E
 
 Our research has four main themes:
 - [Quantum Materials]({{ site.url }}{{ site.baseurl }}/research/quantum-materials)
-- [Quantum Sensing]({{ site.url }}{{ site.baseurl }}/research//quantum-sensing)
-- [Quantum Communication]({{ site.url }}{{ site.baseurl }}/research//quantum-communication)
-- [Quantum Learning]({{ site.url }}{{ site.baseurl }}/research//quantum-learning)
+- [Quantum Sensing]({{ site.url }}{{ site.baseurl }}/research/quantum-sensing)
+- [Quantum Communication]({{ site.url }}{{ site.baseurl }}/research/quantum-communication)
+- [Quantum Learning]({{ site.url }}{{ site.baseurl }}/research/quantum-learning)
 
 Across these themes, we investigate a wide variety of solid-state quantum systems, including crystal defects in diamond and silicon carbide, III–V quantum dots, two-dimensional semiconductors/magnets, and rare-earth ions. The devices we develop integrate advanced photonics to control light–matter interactions, electronics to engineer the qubit environment, and in some cases, real-time optimisation powered by machine learning and Bayesian estimation.
 

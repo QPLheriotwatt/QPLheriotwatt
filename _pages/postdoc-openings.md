@@ -7,6 +7,8 @@ permalink: /vacancies/postdoc
 ---
 
 # Postdoc Positions
+<!-- ### Postdoc opportunities at Heriot-Watt University
+If you are interested in postdoctoral opportunities at Heriot-Watt University, we welcome applications from exceptional candidates with relevant research experience in quantum photonics, condensed matter physics, or related fields. -->
 
 We always look forward to receiving open applications by outstanding candidates, please send your inquiries to the PI whose work you are interested in. We are currently looking for post-doctoral candidates in the following areas:
 
@@ -35,8 +37,6 @@ Royal Society of Edinburgh Personal Research Fellowships,
 Royal Society University Research Fellowships,
 
 
-### Postdoc opportunities at Heriot-Watt University
-If you are interested in postdoctoral opportunities at Heriot-Watt University, we welcome applications from exceptional candidates with relevant research experience in quantum photonics, condensed matter physics, or related fields.
 
 <!-- <figure> -->
 <!-- <img src="{{ site.url }}{{ site.baseurl }}/images/picpic/Gallery/DSC_0696.jpg" width="95%"> -->

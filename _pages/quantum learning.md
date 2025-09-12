@@ -7,7 +7,7 @@ permalink: /research/quantum-learning/
 ---
 
 # Quantum Systems Learning
-## Introduction
+### Introduction
 
 The development of efficient techniques for the characterization of quantum systems is crucial for the development of quantum technologies for communication, computing, sensing and simulation. As the complexity of quantum states and dynamics increases exponentially with their size, however, their full description becomes intractable and even approximations are often challenging.
 Our group, in collaboration with thereotical quantum physicists ([Erik Gauger](https://qtt.eps.hw.ac.uk/)) and experts in statistical learning ([Yoann Altmann](https://yoannaltmann.weebly.com/)), develops novel automated tools to characterise quantum systems, learning the processes (and the associated rates) governing their dynamics. We are particularly interested in artificial intelligence methods that can ‘advise’ experimentalists on the optimal experiments to gain information on a system, for example to distinguish between alternative models that might explain the same datasets. The toolbox we develop is then applied in Quantum Sensing experiments. For a general overview of this research field, you can read our review on “[Learning Quantum Systems](https://www.nature.com/articles/s42254-022-00552-1)” (Nature Reviews Physics, 2023 – also available on arXiv).
