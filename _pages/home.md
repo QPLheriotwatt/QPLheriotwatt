@@ -18,6 +18,10 @@ Our research has four main themes:
 - [Quantum Communication]({{ site.url }}{{ site.baseurl }}/research//quantum-communication)
 - [Quantum Learning]({{ site.url }}{{ site.baseurl }}/research//quantum-learning)
 
+Across these themes, we investigate a wide variety of solid-state quantum systems, including crystal defects in diamond and silicon carbide, III–V quantum dots, two-dimensional semiconductors/magnets, and rare-earth ions. The devices we develop integrate advanced photonics to control light–matter interactions, electronics to engineer the qubit environment, and in some cases, real-time optimisation powered by machine learning and Bayesian estimation.
+
+These devices enable high-quality single photon sources, quantum memories and repeaters for quantum networking; nanoscale magnetic sensors to probe quantum materials; and tunable solid-state platforms for simulating condensed-matter systems such as the Hubbard model. Our experimental work is supported by custom-built instrumentation—from high-throughput optical microscopes to real-time microwave electronics—and high-performance computational tools for experiment control, data acquisition, and simulation.
+
 <div markdown="0" id="carousel" class="carousel slide" data-ride="carousel" data-interval="4000" data-pause="hover" >
   <!-- Menu -->
   <ol class="carousel-indicators">
