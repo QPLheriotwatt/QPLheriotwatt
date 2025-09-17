@@ -11,7 +11,7 @@ permalink: research/quantum-communication/
 
 Quantum networks utilise purely quantum properties such as quantum entanglement to establish secure communication channels or to create a quantum computer by inter-connecting small error-corrected quantum information processing units. Our group develops solid-state devices for quantum networking, including bright single photon sources, photonic quantum memories and spin-based quantum networking devices, as partners of the UK “[Integrated Quantum Networks](https://iqnhub.org/)” hub, led by Heriot-Watt University. 
 
-![]({{ site.url }}{{ site.baseurl }}/images/slider/Applied-Physics-Letters-image-e1620133653496.jpg){: style="width: 50%; display: block; margin: 0 auto;"}
+![]({{ site.url }}{{ site.baseurl }}/images/slider/Applied-Physics-Letters-image-e1620133653496.jpg){: style="width: 40%; display: block; margin: 0 auto;"}
 
 Our quantum communication activities are highlighted below.
 
