@@ -261,6 +261,8 @@ Jump to [staff](#staff), [students](#master-and-bachelor-students), [alumni](#al
 
 ## Alumni
 
+**Alumni only listed from 2025**!**
+
 {% assign number_printed = 0 %}
 {% for member in site.data.alumni_members %}
 

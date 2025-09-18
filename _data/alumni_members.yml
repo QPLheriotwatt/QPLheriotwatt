@@ -1,11 +1,11 @@
-# - name: Gijsbert Verdoes
-#   photo: verdoes.jpg
-#   duration: In the Allan Lab 2015 - 2018, now Project manager at the FMD
-#   info: Fine mechanical engineer associated with the FMD working in our group
-#   email: verdoes@fmd.physics.leidenuniv.nl
-#   number_educ: 2
-#   education1: Leidse instrumentmakers School
-#   education2:
-#   education3:
-#   education4:
+ - name: Sean Keenan
+   photo: Sean.jpg
+   duration: 2021-2025.
+   info: PhD with Prof. Margherita Mazzera. Now post-doc with Prof. Alessandro Fedrizzi on Quantum Secure Time Transfer.
+   email: 
+   number_educ: 2
+   education1: PhD, Heriot-Watt University
+   education2: MPhys, Heriot-Watt University
+   education3:
+   education4:
 

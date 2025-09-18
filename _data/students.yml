@@ -1,7 +1,7 @@
 - name: Dafydd Heyburn
   photo: Dafydd.jpg
   info: PhD Student
-  project: Developing adaptive quantum sensing strategies through machine learning and statistical inference
+  project: Machine learning for adaptive quantum sensing.
   email: 
   number_educ: 1
   education1: MPhys, University of Bath
@@ -19,7 +19,7 @@
 - name: Stefan Todd
   photo: Stefan.jpg
   info: PhD Student
-  project: Improving the sensitivity of quantum sensors by employing machine learning techniques.
+  project: Improving sensitivity of quantum sensors via machine learning.
   email: 
   number_educ: 1
   education1: MPhys, University of Surrey
@@ -28,7 +28,7 @@
 - name: Prokhor Tkhor
   photo: Prokhor.jpg
   info: PhD Student
-  project: Fabrication and optical spectroscopy of transition metal dichalcogenide heterostructures.
+  project: Fabrication and optical spectroscopy of transition metal dichalcogenides. 
   email: 
   number_educ: 1
   education1: MSc Physics, RWTH Aachen University
@@ -37,7 +37,7 @@
 - name: Alex Jones
   photo: Alex.jpg
   info: PhD Student
-  project: Developing a scalable architecture for spin qubits in silicon carbide.
+  project: Scalable architectures for spin qubits in silicon carbide.
   email: 
   number_educ: 1
   education1: BSc Applied Physics, University of Portsmouth
@@ -55,16 +55,16 @@
 - name: Issam Belgacem
   photo: Issam.jpg
   info: PhD Student
-  project: Single-spin quantum magnetometer to map magnetism in 2D heterostructures.
+  project: Quantum magnetometry of 2D heterostructures.
   email: 
-  number_educ: 1
-  education1: MSc Light Matter Interaction, XYZl
-  education2: BSc Engineering, XYZ
+  number_educ: 2
+  education1: MSc Light Matter Interaction, Institut of Optics Graduate School
+  education2: BSc Physics, Institut of Optics Graduate School
 
 - name: Tatyana Ivanova
   photo: Tatyana.jpeg
   info: PhD Student
-  project: Fabrication, characterisation, and tuning of 2D quantum materials.
+  project: Development and tuning of 2D quantum materials.
   email: 
   number_educ: 1
   education1: BSc Physics, ITMO University, Russia
@@ -85,14 +85,6 @@
   email: 
   number_educ: 1
   education1:
-  education2:
-
-- name: Sean Keenan
-  photo: Sean.jpg
-  info: PhD Student
-  email: 
-  number_educ: 1
-  education1: MPhys, Heriot-Watt University
   education2:
 
 - name: "This could be you!"

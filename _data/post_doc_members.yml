@@ -1,7 +1,7 @@
 - name: Dr Arthur Branny
   photo: Art_Branny.jpg
   info: Research Associate
-  project: Developing new fabrication capabilities and to fabricate novel two-dimensional materials and devices.
+  project: Developing new fabrication capabilities for 2D materials and devices.
   email: A.Branny@hw.ac.uk
   number_educ: 2
   education1: PhD Physics, Heriot-Watt University
@@ -10,7 +10,7 @@
 - name: Frederik Brooke Barnes
   photo: Frederik.png
   info: Research 
-  project: Interfacing quantum dot single-photon sources with rare-earth ion doped quantum memories
+  project: Interfacing single-photon sources with rare-earth ion doped quantum memories
   email: 
   number_educ: 2
   education1: PhD Physics, Heriot-Watt University
@@ -39,7 +39,7 @@
 - name: Dr Johan van der Westhuizen
   photo: Johan.jpg
   info: Research Associate
-  project: Autonomous flake identification and equipment integration for 2D material fabrication
+  project: Autonomous flake identification for 2D material fabrication
   email: b
   number_educ: 2
   education1: PhD Chemistry, University of Pretoria 
@@ -68,7 +68,7 @@
 - name: Dr George Kourmoulakis
   photo: George.jpg
   info: Research Associate
-  project: Pick-and-place assembly of single sheets of atoms into moiré materials
+  project: Pick-and-place assembly of atomic layers for moiré fabrication
   email: g.kourmoulakis@hw.ac.uk
   number_educ: 2
   education1: PhD Materials Science, University of Crete
@@ -95,7 +95,7 @@
 - name: Dr Muhammad Junaid Arshad
   photo: Arshad.jpeg
   info: Experimental Officer for the Quantum Magnetometry Facility
-  project: Operates our Quantum Magnetometry Facility, studies complex magnetic materials
+  project: Quantum magnetometry of 2D heterostructures 
   email: muhammad_junaid.arshad@hw.ac.uk
   number_educ: 2
   education1: PhD Physics, Heriot-Watt University
