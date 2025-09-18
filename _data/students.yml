@@ -1,10 +1,10 @@
 - name: Dafydd Heyburn
-  photo: Dafydd.jpeg
+  photo: Dafydd.jpg
   info: PhD Student
-  project: Application of machine learning to quantum sensing.
+  project: Developing adaptive quantum sensing strategies through machine learning and statistical inference
   email: 
   number_educ: 1
-  education1:
+  education1: MPhys, University of Bath
   education2:
 
 - name: Meysam Setodeh Kheirabady
@@ -22,7 +22,7 @@
   project: Improving the sensitivity of quantum sensors by employing machine learning techniques.
   email: 
   number_educ: 1
-  education1:
+  education1: MPhys, University of Surrey
   education2:
 
 - name: Prokhor Tkhor
