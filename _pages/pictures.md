@@ -7,11 +7,13 @@ permalink: /pictures/
 
 # Pictures
 
+<div style="font-size:1.2em">
 Click on the categories to see the corresponding pictures.
 
 (Right-click ‘open image in new tab’ to see a larger image.)
+</div>
 
-{% assign galleries = "TeamBuilding,TeamMeals,TeamSports,Graduations,Conferences,GroupPhotos,Lab" | split: "," %}
+{% assign galleries = "TeamBuilding,TeamMeals,TeamSports,Graduations,Conferences,GroupPhotos,Lab,Outreach" | split: "," %}
 
 {% for gallery_folder in galleries %}
 <details>
@@ -28,7 +30,7 @@ Click on the categories to see the corresponding pictures.
 <div class="row">
 {% endif %}
 <div class="col-sm-3 clearfix">
-<div style="margin-bottom: 15px; overflow: hidden;">
+<div style="margin-bottom: 5px; overflow: hidden;">
 <img src="{{ site.baseurl }}{{ file.path }}" class="img-responsive" width="100%" style="display: block; margin: 0 auto;" />
 </div>
 </div>
