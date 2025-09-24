@@ -294,7 +294,7 @@ Jump to [staff](#staff), [students](#master-and-bachelor-students), [alumni](#al
 </div>
 {% endif %}
 
-## Former visitors, BSc/ MSc students
+<!-- ## Former visitors, BSc/ MSc students
 <div class="row">
 
 <div class="col-sm-4 clearfix">
@@ -318,8 +318,4 @@ Jump to [staff](#staff), [students](#master-and-bachelor-students), [alumni](#al
 {% endfor %}
 </div>
 
-</div>
-
-
-<!-- ## Administrative Support -->
-<!-- <a href="mailto:Rijsewijk@Physics.LeidenUniv.nl">Ellie van Rijsewijk</a> is helping us (and other groups) with administration. -->
+</div> -->

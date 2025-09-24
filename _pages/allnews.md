@@ -8,10 +8,14 @@ permalink: /allnews.html
 
 # News
 
+Click on the news headlines to see more information.
+
 {% for article in site.data.news %}
-**{{ article.date }}** - **{{ article.headline }}**
+
+<details><summary><h4>**{{ article.date }} - {{ article.headline }}** </h4></summary>
 {% if article.details %}
 {{ article.details | markdownify}}
 {% endif %}
+</details>
 
 {% endfor %}
