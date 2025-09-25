@@ -1,3 +1,12 @@
+- name: Angus Conley
+  photo: Angus.jpg
+  info: PhD Student
+  project: Single-spin magnetometry of emergent phenomena in quantum materials
+  email: 
+  number_educ: 1
+  education1: MPhys, University of Bath
+  education2:
+
 - name: Dafydd Heyburn
   photo: Dafydd.jpg
   info: PhD Student
