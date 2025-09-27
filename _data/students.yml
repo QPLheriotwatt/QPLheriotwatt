@@ -1,3 +1,12 @@
+- name: Omer Tapsin
+  photo: Omer.jpeg
+  info: PhD Student
+  project: Interfacing single-photon sources with rare-earth ion doped quantum memories
+  email: 
+  number_educ: 1
+  education1: MSc Physics, Izmir Institute of Technology
+  education2:
+
 - name: Angus Conley
   photo: Angus.jpg
   info: PhD Student
@@ -93,7 +102,7 @@
   project: Developing ultra-high efficiency quantum memories.
   email: 
   number_educ: 1
-  education1:
+  education1: MPhys Physics, Heriot-Watt University
   education2:
 
 - name: "This could be you!"

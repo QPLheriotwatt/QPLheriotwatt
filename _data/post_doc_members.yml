@@ -3,16 +3,16 @@
   info: Research Associate
   project: Developing new fabrication capabilities for 2D materials and devices.
   email: A.Branny@hw.ac.uk
-  number_educ: 2
+  number_educ: 1
   education1: PhD Physics, Heriot-Watt University
-  education2: X
+  education2:
 
 - name: Frederik Brooke Barnes
   photo: Frederik.png
   info: Research 
   project: Interfacing single-photon sources with rare-earth ion doped quantum memories
   email: 
-  number_educ: 2
+  number_educ: 1
   education1: PhD Physics, Heriot-Watt University
   education2:
 
@@ -21,7 +21,7 @@
   info: Research Associate
   project: Engineering scalable photon-mediated interactions in semiconductor quantum dots
   email: 
-  number_educ: 2
+  number_educ: 1
   education1: PhD Physics, Heriot-Watt University
   education2:
 
