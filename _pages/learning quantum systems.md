@@ -1,12 +1,12 @@
 ---
-title: "Quantum Photonics Laboratory - Quantum Learning"
+title: "Quantum Photonics Laboratory - Learning Quantum Systems"
 layout: textlay
-excerpt: "Quantum Photonics Laboratory -- Quantum Learning"
+excerpt: "Quantum Photonics Laboratory -- Learning Quantum Systems"
 sitemap: false
-permalink: /research/quantum-learning/
+permalink: /research/learning-quantum-systems/
 ---
 
-# Quantum Systems Learning
+# Learning Quantum Systems
 ### Introduction
 
 The development of efficient techniques for the characterization of quantum systems is crucial for the development of quantum technologies for communication, computing, sensing and simulation. As the complexity of quantum states and dynamics increases exponentially with their size, however, their full description becomes intractable and even approximations are often challenging.
