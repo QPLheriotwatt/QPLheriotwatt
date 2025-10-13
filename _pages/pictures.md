@@ -13,7 +13,7 @@ Click on the categories to see the corresponding pictures.
 (Right-click ‘open image in new tab’ to see a larger image.)
 </div>
 
-{% assign galleries = "TeamBuilding,TeamMeals,TeamSports,Graduations,Conferences,GroupPhotos,Lab,Outreach" | split: "," %}
+{% assign galleries = "TeamBuilding,GroupPhotos,Outreach" | split: "," %}
 
 {% for gallery_folder in galleries %}
 <details>
