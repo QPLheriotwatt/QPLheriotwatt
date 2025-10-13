@@ -28,9 +28,9 @@ This project aims to implement machine vision and in-situ optical metrology tool
 This project aims at the development of new telecom-compatible platforms for integrated quantum devices based on rare earth ion doped materials. This will involve the investigation of the mechanisms affecting the optical and spin coherence properties of new materials and the design of confined structure with the aim of achieving improved performances due to the strong light matter interaction and facilitating the coupling with other integrated quantum technologies as quantum light sources or detectors.
 
 Contact: Margherita Mazzera, [m.mazzera'at'hw.ac.uk](mailto:m.mazzera'at'hw.ac.uk), +44 (0)131 451 8220
+</details>
 
-## Project 3: Strongly correlated states in designer two-dimensional moiré heterostructures
-
+<details><summary><h3>Project 3: Strongly correlated states in designer two-dimensional moiré heterostructures</h3></summary>
 Two-dimensional semiconductors offer unprecedented opportunities to engineer and tune the interactions between particles at the quantum level to give rise to emergent phases and states of matter. This project aims to design, fabricate, and characterize (via quantum transport and quantum optics) highly tunable moiré heterostructures which act as a quantum simulator of the Hubbard model.
 
 **Contact**: Mauro Brotons-Gisbert ([m.brotons_i_gisbert'at'hw.ac.uk](mailto:m.brotons_i_gisbert'at'hw.ac.uk)); Brian Gerardot ([b.d.gerardot'at'hw.ac.uk](mailto:b.d.gerardot'at'hw.ac.uk))
@@ -56,19 +56,14 @@ Our group has recently been awarded a >£2M grant to establish a Quantum Magneto
 
 **Contact**: Cristian Bonato ([c.bonato'at'hw.ac.uk](mailto:c.bonato'at'hw.ac.uk)) or Brian Gerardot ([b.d.gerardot'at'hw.ac.uk](mailto:b.d.gerardot'at'hw.ac.uk))
 </details>
-<details><summary><h3>Project 7: Towards imaging propagating spin waves in 2D magnets using nitrogen vacancy spins in diamond</h3></summary>
 
-Recently a new group of magnets, called van der Waals magnets have risen to the forefront of condensed matter research. These magnets provide unprecedented opportunities for probing magnetism in the 2D limit. Many vdW magnets have been discovered with metallic to insulating electronic properties and continuous efforts have focused on manipulating their static magnetization electrostatically, using strain and pressure. Despite the exciting progress, little is known about their magnetic excitations – spin waves. The goal of this research is to therefore determine the nature of spin waves in two dimensional magnets and control their transport for the ultimate goal of developing nanoscale spin-wave devices.
-
-**Contact**: Samer Kurdi ([s.kurdi'at'hw.ac.uk](mailto:s.kurdi'at'hw.ac.uk))
-</details>
-<details><summary><h3>Project 8: Superconducting qubit diagnostics: Unravelling noise sources for maximizing coherence times</h3></summary>
+<details><summary><h3>Project 7: Superconducting qubit diagnostics: Unravelling noise sources for maximizing coherence times</h3></summary>
 
 Quantum computers based on superconducting circuits are lose their quantum properties on short timescales resulting limiting the potential of their applications. The presence of microscopic and non-optimal circuit design are major sources of noise leading to low fidelity operations and limiting the number of operations that superconducting circuit quantum computers can perform. The goal of this project is to use quantum magnetometry for investigate sources of noise in superconducting circuits for the ultimate goal of optimizing qubit fabrication for scaling up quantum computers.
 
 **Contact**: Samer Kurdi ([s.kurdi'at'hw.ac.uk](mailto:s.kurdi'at'hw.ac.uk))
 </details>
-<details><summary><h3>Project 9: Quantum sensing for biomedical application</h3></summary>
+<details><summary><h3>Project 8: Quantum sensing for biomedical application</h3></summary>
 
 In collaboration with the new Q-BIOMED quantum hub, we are developing applications of quantum sensing to biochemistry and healthcare, with the goal to improve the detection of small quantities of molecules. We can offer different projects, from the optimisation of quantum sensing sequences for the detection of single molecules, to the integration of quantum sensors into microfluidic devices.
 
