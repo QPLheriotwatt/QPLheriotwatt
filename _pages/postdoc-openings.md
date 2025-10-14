@@ -14,19 +14,7 @@ We always look forward to receiving open applications by outstanding candidates,
 
 <!-- Click on the projects to see additional information. -->
 
-<details><summary><h3>Project 1: SiC quantum opto-electronic devices for quantum networking</h3></summary>
-
-We are seeking for excellent and motivated candidates with a background on solid-state quantum optics and nanofabrication to develop next-generation SiC devices integrating spintronic, photonic and micro-electronic functionalities on the same chip. 
-
-**Contact**: [Prof Cristian Bonato](mailto:c.bonato@hw.ac.uk) and [Dr Christiaan Bekker](mailto:c.bekker@hw.ac.uk)
-</details>
-<details><summary><h3>Project 2: Quantum sensing for bio-chemical applications</h3></summary>
-
-We are seeking motivated candidates to start a new activity on bio-chemical sensing with single spins. We are ideally looking for somebody with a background combining spin-based quantum technology with EPR/NMR chemistry or biology. Given that this is a new research area in our group, we expect the candidate to be able to push new research ideas with some independence. 
-
-**Contact**: [Prof Cristian Bonato](mailto:c.bonato@hw.ac.uk)
-</details>
-<details><summary><h3>Project 3: Integrated platforms for novel quantum devices using rare-earth doped crystals for quantum memory applications</h3></summary>
+<details><summary><h3>Project 1: Integrated platforms for novel quantum devices using rare-earth doped crystals for quantum memory applications</h3></summary>
 
 We seek a talented and motivated scientist to start a new line of research on integrated platforms for novel quantum devices using rare-earth doped crystals for quantum memory applications. The work will be conducted in the framework of a recently funded EPSRC grant involving world leading partners working in waveguide fabrication and electrical engineering. It will be carried out under the supervision of [Dr Margherita Mazzera](mailto:m.mazzera@hw.ac.uk), who is principal investigator of the funded project. The ideal candidate will have a strong experimental background in one or more of the following fields: solid-state physics, quantum photonics, and quantum information science. We especially encourage applications from women and other underrepresented groups in Physics. 
 

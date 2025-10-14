@@ -50,20 +50,14 @@ This work will be carried out in collaboration with the quantum theory group of 
 
 **Contact**: Cristian Bonato ([c.bonato'at'hw.ac.uk](mailto:c.bonato'at'hw.ac.uk))
 </details>
-<details><summary><h3>Project 6: Quantum sensing of magnetism in 2D materials</h3></summary>
 
-Our group has recently been awarded a >£2M grant to establish a Quantum Magnetometry facility that will utilise a single electronic spin to measure magnetic fields with nanoscale spatial resolution at ultra-low temperatures (mK range). This is a quite unique facility worldwide, which will open the way to the investigation of quantum correlated states in 2D heterostructures, exotic magnetic textures, unconventional superconductivity. We are looking for a PhD student to join this project and contribute both to establishing the facility and to use it to carry out exciting science! This work will be carried out in collaboration with Prof Brian Gerardot.
-
-**Contact**: Cristian Bonato ([c.bonato'at'hw.ac.uk](mailto:c.bonato'at'hw.ac.uk)) or Brian Gerardot ([b.d.gerardot'at'hw.ac.uk](mailto:b.d.gerardot'at'hw.ac.uk))
-</details>
-
-<details><summary><h3>Project 7: Superconducting qubit diagnostics: Unravelling noise sources for maximizing coherence times</h3></summary>
+<details><summary><h3>Project 6: Superconducting qubit diagnostics: Unravelling noise sources for maximizing coherence times</h3></summary>
 
 Quantum computers based on superconducting circuits are lose their quantum properties on short timescales resulting limiting the potential of their applications. The presence of microscopic and non-optimal circuit design are major sources of noise leading to low fidelity operations and limiting the number of operations that superconducting circuit quantum computers can perform. The goal of this project is to use quantum magnetometry for investigate sources of noise in superconducting circuits for the ultimate goal of optimizing qubit fabrication for scaling up quantum computers.
 
 **Contact**: Samer Kurdi ([s.kurdi'at'hw.ac.uk](mailto:s.kurdi'at'hw.ac.uk))
 </details>
-<details><summary><h3>Project 8: Quantum sensing for biomedical application</h3></summary>
+<details><summary><h3>Project 7: Quantum sensing for biomedical application</h3></summary>
 
 In collaboration with the new Q-BIOMED quantum hub, we are developing applications of quantum sensing to biochemistry and healthcare, with the goal to improve the detection of small quantities of molecules. We can offer different projects, from the optimisation of quantum sensing sequences for the detection of single molecules, to the integration of quantum sensors into microfluidic devices.
 
