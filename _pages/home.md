@@ -45,7 +45,7 @@ These devices enable high-quality single photon sources, quantum memories and re
       <img src="{{ site.url }}{{ site.baseurl }}/images/slider/SIL_laser_writing_cover_4.png" alt="Slide 3" style="object-fit: contain; width: 100%; height: 400px;" />
     </div>
     <div class="item">
-      <img src="{{ site.url }}{{ site.baseurl }}/images/slider/01_SiC_quantum_device-e1606424074191.jpg" alt="Slide 4" style="object-fit: contain; width: 100%; height: 400px;" />
+      <img src="{{ site.url }}{{ site.baseurl }}/images/slider/Designer.jpeg" alt="Slide 4" style="object-fit: contain; width: 100%; height: 400px;" />
     </div>
     <div class="item">
       <img src="{{ site.url }}{{ site.baseurl }}/images/slider/hemis_dense2_2_05_banner.tif" alt="Slide 5" style="object-fit: contain; width: 100%; height: 400px;" />
@@ -79,4 +79,5 @@ These devices enable high-quality single photon sources, quantum memories and re
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/AppliedQuantumTechnoloies-logo.png">
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/royalSociety-Logo.png">
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/IQNH-Logo_colour.png">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Leverhulme_Trust.jpg">
 </figure>

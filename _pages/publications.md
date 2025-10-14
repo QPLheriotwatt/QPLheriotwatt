@@ -114,11 +114,14 @@ Zurich Instruments, [Speeding up NV Center Measurements with Real-time Control](
 
 ## Talks:
 
-**Measuring the Smallest Magnetic Fields - Research Bites with Dr Cristian Bonato**
+**Measuring the Smallest Magnetic Fields - Research Bites with Prof. Cristian Bonato**
 <iframe width="560" height="315" src="https://www.youtube.com/embed/MP7MaVotkhs" frameborder="0" allowfullscreen></iframe>
 
-**Quantum Light and Strongly Correlated Electronic States in a Moiré Heterostructure**
+**BQIT 2020: New platforms for integrated solid-state quantum memories with Prof. Margherita Mazzera**
+<iframe width="560" height="315" src="https://www.youtube.com/embed/R58QLjjvXmg?start=566" frameborder="0" allowfullscreen></iframe>
+
+**Quantum Light and Strongly Correlated Electronic States in a Moiré Heterostructure with Prof. Brian Gerardot**
 <iframe width="560" height="315" src="https://www.youtube.com/embed/le23YZ_bX6c" frameborder="0" allowfullscreen></iframe>
 
-**NanoMRI7 - Cristian Bonato**
+**NanoMRI7 with Prof. Cristian Bonato**
 <iframe width="560" height="315" src="https://www.youtube.com/embed/QrpzBuM2RxQ" frameborder="0" allowfullscreen></iframe>

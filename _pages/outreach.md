@@ -58,6 +58,12 @@ permalink: /Outreach/
 <iframe width="560" height="315" src="https://www.youtube.com/embed/2R3C9HVS-Jk" frameborder="0" allowfullscreen></iframe>
 
 
-## Podcasts:
+## Talks:
+**Scottish Universities Physics Alliance (SUPA) – Public Engagement Forum: HWU–TEDxCesena Adventure, The Secrets of Light ft. Margherita Mazzera**
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Op5YNQIyzgc" frameborder="0" allowfullscreen></iframe>
+
 **TEDx: E se la meccanica quantistica fosse divertente? ft. Margherita Mazzera**
-<iframe width="560" height="315" src="https://youtu.be/MM1pus_Y0Cc?si=r7TjSI28wBp5ftG8" frameborder="0" allowfullscreen></iframe>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MM1pus_Y0Cc" frameborder="0" allowfullscreen></iframe>
+

@@ -17,7 +17,7 @@ Our research focuses on exploring coupling spin/magnetic order in novel magnetic
 
 **Quantum sensing in bio-chemistry and Healthcare.** We are very interested in applying spin-based quantum sensing to study interesting processes in surface chemistry and biology. If interested, you can for example read the Roadmap on Nanoscale Magnetic Resonance Imaging we co-authored with other leading international groups in this exciting field. We are working on this topic as part of the newly-established “UK Quantum Hub for Biomedical Research” (Q-BIOMED). Stay tuned for more information about this work!
 
-**Quantum Learning Systems** - We are developing quantum sensing tools by adding self-optimising algorithms that adapt measurement settings in real time, cutting down the long data acquisition times. See more: [Link]({{ site.url }}{{ site.baseurl }}/research/learning-quantum-systems)
+**Learning Quantum Learning** - We are developing quantum sensing tools by adding self-optimising algorithms that adapt measurement settings in real time, cutting down the long data acquisition times. See more: [Link]({{ site.url }}{{ site.baseurl }}/research/learning-quantum-systems)
 
 
 
