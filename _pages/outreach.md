@@ -3,7 +3,7 @@ title: "Quantum Photonics Laboratory - Outreach"
 layout: gridlay
 excerpt: "Quantum Photonics Laboratory -- Outreach"
 sitemap: false
-permalink: /Outreach/
+permalink: /outreach/
 ---
 
 ## Blogs:
