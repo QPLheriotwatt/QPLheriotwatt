@@ -4,34 +4,28 @@
     Welcome to our three new post-docs, all of whom are very familiar with the QPL group.  
     Dr. Art returns as a postdoctoral researcher to develop new fabrication capabilities and to fabricate novel two-dimensional materials and devices.  
     Sheena and Fred have completed their PhD theses and are now beginning postdoctoral research in engineering scalable photon-mediated interactions in semiconductor quantum dots and interfacing quantum dot single-photon sources with rare-earth ion doped quantum memories respectively.  
-    A huge ‘welcome back’ to all of you!  
-
-    <div style="display: flex; gap: 10px; justify-content: start;">
-      <img src="/images/newspic/Art-Branny.jpg" alt="Art" style="width:200px; height:200px; object-fit: cover;">
-      <img src="/images/newspic/Sheena-Shaji-1536x2048.jpg" alt="Sheena" style="width:200px; height:200px; object-fit: cover;">
-      <img src="/images/newspic/Fred-Brooke-Barnes.png" alt="Fred" style="width:200px; height:200px; object-fit: cover;">
-    </div>
-
+    A huge 'welcome back' to all of you!
+  photos:
+    - filename: Art-Branny.jpg
+      alt: Art
+    - filename: Sheena-Shaji-1536x2048.jpg
+      alt: Sheena
+    - filename: Fred-Brooke-Barnes.png
+      alt: Fred
 
 - date: "22. August 2025"
   headline: "QPL Away Day 2025"
   details: |
     The sun was shining over North Berwick helping to make it a great day learning the ropes of various Scottish Highland Games activities with Wild Cairns… even if some of us took the scoring a bit too seriously!  
     (…Team MacDonald was robbed…!).
-
-    <div style="display: flex; justify-content: center; margin-top: 10px;">
-      <video width="560" height="315" controls>
-        <source src="/images/newspic/4457897d-6322-40fc-bf3f-54cbcadbfdc7.mp4" type="video/mp4">
-        Your browser does not support the video tag.
-      </video>
-    </div>
-
-    <div style="display: flex; gap: 10px; justify-content: start;">
-      <img src="/images/newspic/PXL_20250812_111255547-1-1536x2048.jpg" alt="Fork" style="width:300px; height:300px; object-fit: cover;">
-      <img src="/images/newspic/PXL_20250812_113917047.MP_-1-768x1024.jpg" alt="Log" style="width:300px; height:300px; object-fit: cover;">
-      <img src="/images/newspic/Photo-1-2048x1536.jpg" alt="Rope" style="width:300px; height:300px; object-fit: cover;">
-    </div>
-
+  video: 4457897d-6322-40fc-bf3f-54cbcadbfdc7.mp4
+  photos:
+    - filename: PXL_20250812_111255547-1-1536x2048.jpg
+      alt: Fork
+    - filename: PXL_20250812_113917047.MP_-1-768x1024.jpg
+      alt: Log
+    - filename: Photo-1-2048x1536.jpg
+      alt: Rope
 
 - date: 20. June 2025
   headline: "New Assistant Professor!"
@@ -51,24 +45,30 @@
   headline: "European quantum light tour to be hosted at Scotland's Heriot-Watt University"
   details: >
     A quantum light source that's travelling across 12 countries in Europe with UNESCO has arrived at Heriot-Watt University – its only Scottish stop on the tour!  
-    We're excited to share that our Edinburgh campus is hosting the QuanTour – which aims to raise interest in quantum physics ahead of next year's UNESCO International Year of Quantum Science and Technology 2025.  
-
-    ![image](/images/newspic/QuanTour-1.png){:class='img-responsive' style='display:block; margin:auto;'}
+    We're excited to share that our Edinburgh campus is hosting the QuanTour – which aims to raise interest in quantum physics ahead of next year's UNESCO International Year of Quantum Science and Technology 2025.
 
     The QuanTour arrived at our Quantum Photonics Lab (QPL) yesterday which is led by Professor Brian Gerardot:  
     "We're very excited to be hosting the QuanTour light source. It's a great opportunity to connect with the research community in this area and also to celebrate the International Year of Quantum Science and Technology. Heriot-Watt has been at the forefront of this field of quantum optics for more than 25 years and a lot of the technology behind the quantum light source has been developed here and in the other laboratories taking part."  
 
     PhD students Fred and Sheena did a fantastic job of organising a traditional Scottish welcoming event for the QuanTour, which of course included piping in the quantum light source!
 
-    <div style="display: flex; justify-content: center; margin-top: 10px;">
-      <video width="560" height="315" controls>
-        <source src="/images/newspic/MicrosoftTeams-video.mp4" type="video/mp4">
-        Your browser does not support the video tag.
-      </video>
-    </div>
-
     The UNESCO International Year of Quantum Science and Technology 2025 is a year-long, worldwide initiative to increase public awareness about the importance of quantum science and its applications.
+  photos:
+    - filename: QuanTour-1.png
+      alt: QuanTour
+  video: MicrosoftTeams-video.mp4
 
+- date: 5. November 2024
+  headline: "Early Career Researchers present their work to the UK Minister for Science – Lord Patrick Vallance"
+  details: >
+    Recently Dr. Muhammad, Fred, and Finley, along with Dr. Will McCutcheon and Annameng Mariana Ma from the BBQLab, had the opportunity to present their work and discuss quantum science with the UK Minister for Science, Lord Vallance, at the University of Edinburgh.  
+
+    They each presented a poster and spoke with the minister directly, providing Lord Vallance with the opportunity to meet our early career researchers working in the field of quantum computing and its applications.  
+    It was a great day of collaboration, innovation, and all things quantum!
+  photos:
+    - filename: PXL_20241023_122130225-edited.jpg
+      alt: QPL Researchers from Left - Finley, Fred and Muhammad
+      caption: QPL Researchers from Left - Finley, Fred and Muhammad
 
 - date: 5. November 2024
   headline: "Early Career Researchers present their work to the UK Minister for Science – Lord Patrick Vallance"
