@@ -1,3 +1,12 @@
+- name: Tymon Fellmann
+  photo: Tyson.png
+  info: PhD Student
+  project: Integrated quantum memories for single photons using fs-laser written waveguides in rare-earth doped crystals
+  email: 
+  number_educ: 1
+  education1: MPhys, Heriot-Watt University
+  education2:
+
 - name: Omer Tapsin
   photo: Omer.jpeg
   info: PhD Student
@@ -31,7 +40,7 @@
   project: Developing ultra-high efficiency quantum memories.
   email: 
   number_educ: 1
-  education1: MSc, Institute of Optics Graduate School, France
+  education1: MSc Atomic and Molecular Physics, Yazd University, Iran
   education2:
 
 - name: Stefan Todd

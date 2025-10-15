@@ -3,7 +3,7 @@ title: "Quantum Photonics Laboratory - Setups"
 layout: textlay
 excerpt: "Nanoscale Quantum Sensing"
 sitemap: false
-permalink: /facilities/Setups
+permalink: /facilities/setups
 ---
 
 # Optical Setups
