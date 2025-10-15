@@ -54,7 +54,7 @@ permalink: /outreach/
 **Under the Microscope - Atomic Architects: Designing the Future of Quantum ft. Brian Gerardot**
 <iframe width="560" height="315" src="https://www.youtube.com/embed/6GbR_X6_yJQ" frameborder="0" allowfullscreen></iframe>
 
-**Quantum Magnetic Materials Podcast - Episode 1 - General Introduction**
+**Quantum Magnetic Materials Podcast - Episode 1 - General Introduction ft Samer Kurdi**
 <iframe width="560" height="315" src="https://www.youtube.com/embed/2R3C9HVS-Jk" frameborder="0" allowfullscreen></iframe>
 
 
