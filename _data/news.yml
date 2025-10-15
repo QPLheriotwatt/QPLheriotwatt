@@ -13,11 +13,12 @@
     - filename: Fred-Brooke-Barnes.png
       alt: Fred
 
-- date: 22. August 2025
+- date: "22. August 2025"
   headline: "QPL Away Day 2025"
-  details: >
+  details: |
     The sun was shining over North Berwick helping to make it a great day learning the ropes of various Scottish Highland Games activities with Wild Cairns… even if some of us took the scoring a bit too seriously!  
     (…Team MacDonald was robbed…!).
+  video: 4457897d-6322-40fc-bf3f-54cbcadbfdc7.mp4
   photos:
     - filename: PXL_20250812_111255547-1-1536x2048.jpg
       alt: Fork
@@ -25,13 +26,20 @@
       alt: Log
     - filename: Photo-1-2048x1536.jpg
       alt: Rope
-  video: 4457897d-6322-40fc-bf3f-54cbcadbfdc7.mp4
 
 - date: 20. June 2025
   headline: "New Assistant Professor!"
   details: >
     Dr. Samer Kurdi has joined us as an Assistant Professor. His focus is on spin and charge mapping in the nanoscale using spins in diamond.  
     A huge welcome to the QPL group, Samer!
+
+- date: 15. December 2024
+  headline: "We are hiring!"
+  details: >
+    We have several funded PhD positions available, through Heriot-Watt's own PhD School, or through the new Centre for Doctoral Training in [Applied Quantum Technologies](https://www.aqt.ac.uk/).  
+    Get in touch if you are interested!  
+
+    For more information, see the [Heriot-Watt PhD School](https://www.hw.ac.uk/study/postgraduate/phd-study.htm) or the [AQT CDT](https://www.aqt.ac.uk/).
 
 - date: 12. November 2024
   headline: "European quantum light tour to be hosted at Scotland's Heriot-Watt University"
@@ -44,6 +52,7 @@
 
     PhD students Fred and Sheena did a fantastic job of organising a traditional Scottish welcoming event for the QuanTour, which of course included piping in the quantum light source!
 
+    The UNESCO International Year of Quantum Science and Technology 2025 is a year-long, worldwide initiative to increase public awareness about the importance of quantum science and its applications.
   photos:
     - filename: QuanTour-1.png
       alt: QuanTour
@@ -52,12 +61,28 @@
 - date: 5. November 2024
   headline: "Early Career Researchers present their work to the UK Minister for Science – Lord Patrick Vallance"
   details: >
-    Recently Dr. Muhammad, Fred, and Finley, along with Dr. Will McCutcheon and Annameng Mariana Ma from the BBQLab, had the opportunity to present their work and discuss quantum science with the UK Minister for Science, Lord Vallance at the University of Edinburgh.  
+    Recently Dr. Muhammad, Fred, and Finley, along with Dr. Will McCutcheon and Annameng Mariana Ma from the BBQLab, had the opportunity to present their work and discuss quantum science with the UK Minister for Science, Lord Vallance, at the University of Edinburgh.  
 
     They each presented a poster and spoke with the minister directly, providing Lord Vallance with the opportunity to meet our early career researchers working in the field of quantum computing and its applications.  
     It was a great day of collaboration, innovation, and all things quantum!
-
   photos:
     - filename: PXL_20241023_122130225-edited.jpg
       alt: QPL Researchers from Left - Finley, Fred and Muhammad
       caption: QPL Researchers from Left - Finley, Fred and Muhammad
+
+- date: 5. November 2024
+  headline: "Early Career Researchers present their work to the UK Minister for Science – Lord Patrick Vallance"
+  details: >
+    Recently Dr. Muhammad, Fred, and Finley, along with Dr. Will McCutcheon and Annameng Mariana Ma from the BBQLab, had the opportunity to present their work and discuss quantum science with the UK Minister for Science, Lord Vallance, at the University of Edinburgh.  
+
+    They each presented a poster and spoke with the minister directly, providing Lord Vallance with the opportunity to meet our early career researchers working in the field of quantum computing and its applications.  
+    It was a great day of collaboration, innovation, and all things quantum!  
+
+    ![QPL Researchers from Left: Finley, Fred and Muhammad](/images/newspic/PXL_20241023_122130225-edited.jpg){:class="img-responsive" style="max-width:300px; display:block; margin:auto;"}
+
+    <div style="text-align: center; margin-top: 5px;">
+      <strong>QPL Researchers from Left: Finley, Fred and Muhammad</strong>
+    </div>
+
+
+

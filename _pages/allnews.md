@@ -16,32 +16,32 @@ Click on the news headlines to see more information.
 <summary><h4 style="display: inline;"><strong>{{ article.date }} - {{ article.headline }}</strong></h4></summary>
 
 <div markdown="1">
-  {% if article.details %}
-    {{ article.details | markdownify }}
-  {% endif %}
+{% if article.details %}
+{{ article.details | markdownify }}
+{% endif %}
 </div>
 
 {% if article.photos %}
 <div class="row">
-  {% for photo in article.photos %}
-    <div class="col-sm-4">
-      <img src="/images/newspic/{{ photo.filename }}" alt="{{ photo.alt | default: '' }}" class="img-fluid" style="margin: 0 auto; display: block; max-height: 250px;">
-      {% if photo.caption %}
-      <div style="text-align: center; margin-top: 5px;">
-        <strong>{{ photo.caption }}</strong>
-      </div>
-      {% endif %}
+  {% for photos in article.photos %}
+  <div class="col-sm-4">
+    <img src="{{ site.url }}{{ site.baseurl }}/images/newspic/{{ photos.filename }}" alt="{{ photos.alt | default: '' }}" class="img-responsive" style="max-height: 250px; margin: 0 auto;">
+    {% if photos.caption %}
+    <div style="text-align: center; margin-top: 5px;">
+      <strong>{{ photos.caption }}</strong>
     </div>
+    {% endif %}
+  </div>
   {% endfor %}
 </div>
 {% endif %}
 
 {% if article.video %}
 <div class="row">
-  <div class="col-sm-8 offset-sm-2">
+  <div class="col-sm-8 col-sm-offset-2">
     <div class="embed-responsive embed-responsive-16by9">
       <video controls class="embed-responsive-item">
-        <source src="/images/newspic/{{ article.video }}" type="video/mp4">
+        <source src="{{ site.url }}{{ site.baseurl }}/images/newspic/{{ article.video }}" type="video/mp4">
         Your browser does not support the video tag.
       </video>
     </div>
