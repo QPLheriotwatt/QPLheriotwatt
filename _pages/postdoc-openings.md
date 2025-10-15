@@ -45,3 +45,19 @@ We are furthermore always happy to support suitable candidates for fellowships:
 <!-- <figure> -->
 <!-- <img src="{{ site.url }}{{ site.baseurl }}/images/picpic/Gallery/DSC_0696.jpg" width="95%"> -->
 <!-- </figure> -->
+
+<style>
+details > summary {
+  cursor: pointer;
+  padding: 10px;
+  background-color: #f5f5f5;
+  border-radius: 5px;
+  margin-bottom: 10px;
+}
+details > div {
+  padding: 15px;
+}
+details {
+  margin-bottom: 20px;
+}
+</style>

@@ -3,7 +3,7 @@ title: "Quantum Photonics Laboratory - News"
 layout: piclay
 excerpt: "Heriot-Watt University"
 sitemap: false
-permalink: /allnews.html
+permalink: /allnews/
 ---
 
 # News

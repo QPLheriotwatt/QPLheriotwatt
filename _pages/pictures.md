@@ -53,3 +53,19 @@ Click on the categories to see the corresponding pictures.
 {% endif %}
 </details>
 {% endfor %}
+
+<style>
+details > summary {
+  cursor: pointer;
+  padding: 10px;
+  background-color: #f5f5f5;
+  border-radius: 5px;
+  margin-bottom: 10px;
+}
+details > div {
+  padding: 15px;
+}
+details {
+  margin-bottom: 20px;
+}
+</style>

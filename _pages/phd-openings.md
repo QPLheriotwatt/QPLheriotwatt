@@ -67,3 +67,20 @@ In collaboration with the new Q-BIOMED quantum hub, we are developing applicatio
 <!-- <img src="{{ site.url }}{{ site.baseurl }}/images/picpic/Gallery/DSC_0696.jpg" width="95%"> -->
 <!-- </figure> -->
 <!-- test -->
+
+
+<style>
+details > summary {
+  cursor: pointer;
+  padding: 10px;
+  background-color: #f5f5f5;
+  border-radius: 5px;
+  margin-bottom: 10px;
+}
+details > div {
+  padding: 15px;
+}
+details {
+  margin-bottom: 20px;
+}
+</style>
