@@ -15,7 +15,7 @@ Click on the news headlines to see more information.
 <details>
 <summary><h4 style="display: inline;"><strong>{{ article.date }} - {{ article.headline }}</strong></h4></summary>
 
-<div>
+<div markdown="0">
 {% if article.details %}
 {{ article.details | markdownify }}
 {% endif %}
@@ -24,7 +24,7 @@ Click on the news headlines to see more information.
 <div class="row">
   {% for photos in article.photos %}
   <div class="col-sm-4">
-    <img src="{{ site.url }}{{ site.baseurl }}/images/newspic/{{ photos.filename }}" alt="{{ photos.alt | default: '' }}" class="img-responsive" style="max-height: 250px; margin: 0 auto;" />
+    <img src="{{ site.url }}{{ site.baseurl }}/images/newspic/{{ photos.filename }}" class="img-responsive" style="max-height: 250px; margin: 0 auto;" />
     {% if photos.caption %}
     <div style="text-align: center; margin-top: 5px;">
       <strong>{{ photos.caption }}</strong>
