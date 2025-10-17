@@ -12,20 +12,19 @@ Click on the news headlines to see more information.
 
 {% for article in site.data.news %}
 
-<details markdown="1">
+<details>
 <summary><h4 style="display: inline;"><strong>{{ article.date }} - {{ article.headline }}</strong></h4></summary>
 
-<div markdown="1">
+<div>
 {% if article.details %}
 {{ article.details | markdownify }}
 {% endif %}
-</div>
 
 {% if article.photos %}
 <div class="row">
   {% for photos in article.photos %}
   <div class="col-sm-4">
-    <img src="{{ site.url }}{{ site.baseurl }}/images/newspic/{{ photos.filename }}" alt="{{ photos.alt | default: '' }}" class="img-responsive" style="max-height: 250px; margin: 0 auto;">
+    <img src="{{ site.url }}{{ site.baseurl }}/images/newspic/{{ photos.filename }}" alt="{{ photos.alt | default: '' }}" class="img-responsive" style="max-height: 250px; margin: 0 auto;" />
     {% if photos.caption %}
     <div style="text-align: center; margin-top: 5px;">
       <strong>{{ photos.caption }}</strong>
@@ -48,6 +47,7 @@ Click on the news headlines to see more information.
   </div>
 </div>
 {% endif %}
+</div>
 
 </details>
 
