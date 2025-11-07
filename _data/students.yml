@@ -19,7 +19,7 @@
 - name: Omer Tapsin
   photo: Omer.jpeg
   info: PhD Student
-  project: Interfacing single-photon sources with rare-earth ion doped quantum memories
+  project: Quantum communications with single photons from semiconductor quantum dots
   email: 
   number_educ: 1
   education1: MSc Physics, Izmir Institute of Technology
@@ -68,6 +68,15 @@
   email: 
   number_educ: 1
   education1: MSc Physics, RWTH Aachen University
+  education2:
+
+- name: Shivani Bisht
+  photo: Shivani.jpg
+  info: PhD Student
+  project: Integrating spin centres with photonic structures in Silicon Carbide based quantum devices. 
+  email: 
+  number_educ: 1
+  education1: 
   education2:
 
 - name: Alex Jones

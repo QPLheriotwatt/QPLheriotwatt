@@ -121,3 +121,25 @@
     display: Nano Lett. 2022, 22, 22, 9198–9204
   highlight: 1
   news1:
+
+- title: Learning quantum systems
+  image: Pub_Learning_Quantum_Systems.png
+  description:
+  authors:
+    V. Gebhart et al.
+  link:
+    url: https://www.nature.com/articles/s42254-022-00552-1
+    display: Nat Rev Phys 5, 141–156 (2023)
+  highlight: 1
+  news1:
+
+- title: Silicon Carbide Photonics Bridging Quantum Technology
+  image: Pub_Silicon_Carbide_Photonics.png
+  description:
+  authors:
+    S. Castelletto et al.
+  link:
+    url: https://pubs.acs.org/doi/abs/10.1021/acsphotonics.1c01775
+    display: ACS Photonics 2022 9 (5), 1434-1457
+  highlight: 1
+  news1:
