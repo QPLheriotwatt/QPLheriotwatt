@@ -19,7 +19,7 @@
 - name: Omer Tapsin
   photo: Omer.jpeg
   info: PhD Student
-  project: Quantum communications with single photons from semiconductor quantum dots
+  project: New protocols and implementation of quantum communication with single photons
   email: 
   number_educ: 1
   education1: MSc Physics, Izmir Institute of Technology
@@ -91,11 +91,11 @@
 - name: Bibi Mary Francis
   photo: Bibi.jpg
   info: PhD Student
-  project: Quantum photonics with 2D semiconductors.
+  project: Optical modelling and characterization of 2D materials.
   email: 
-  number_educ: 1
-  education1:
-  education2:
+  number_educ: 2
+  education1: MSc Physics, Madras Christian College, Chennai, India
+  education2: MPhil Physics, Anna University, Chennai India
 
 - name: Issam Belgacem
   photo: Issam.jpg
@@ -118,6 +118,7 @@
 - name: Kieran McGovern
   photo: Kieran.jpg
   info: EngD Student
+  Project: In-situ cryogenic twist control of 2D moiré heterostructures – joint with Razorbill Instuments
   email: 
   number_educ: 1
   education1: MSc Physics, University of Birmingham

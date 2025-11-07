@@ -1,3 +1,12 @@
+- name: Dr Jamie Chen
+  photo: Jamie.jpg
+  info: Research Associate
+  project: Non-linear optics in 2D moire semiconductor heterostructures. 
+  email: Yuan.Chen1@hw.ac.uk
+  number_educ: 2
+  education1: PhD Chemistry, National University of Singapore. 
+  education2: BSc Chemistry, National University of Singapore. 
+
 - name: Dr Arthur Branny
   photo: Art_Branny.jpg
   info: Research Associate
@@ -7,7 +16,7 @@
   education1: PhD Physics, Heriot-Watt University
   education2:
 
-- name: Frederik Brooke Barnes
+- name: Dr. Frederik Brooke Barnes
   photo: Frederik.png
   info: Research 
   project: Interfacing single-photon sources with rare-earth ion doped quantum memories
@@ -16,7 +25,7 @@
   education1: PhD Physics, Heriot-Watt University
   education2:
 
-- name: Sheena Shaji
+- name: Dr. Sheena Shaji
   photo: Sheena.jpeg
   info: Research Associate
   project: Engineering scalable photon-mediated interactions in semiconductor quantum dots
