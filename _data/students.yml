@@ -1,3 +1,12 @@
+- name: Dylan Mcleod
+  photo: dylan.jpg
+  info: PhD Student
+  project: Nonlinear optics in 2D heterostructures 
+  email: 
+  number_educ: 1
+  education1: MPhys, Heriot-Watt University
+  education2: 
+
 - name: Lorenzo Menna
   photo: Lorenzo.jpg
   info: PhD Student
