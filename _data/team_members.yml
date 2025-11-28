@@ -23,9 +23,17 @@
   education1: PhD Physics, University of Parma
   education2: MSc Physics, University of Parma
 
+- name: Dr Aldona Kurdi
+  photo: Aldona.jpg
+  info: Associate Professor, UKRI Future Leaders Fellow
+  email: aldonamzyk@googlemail.com>
+  number_educ: 2
+  education1: PhD Materials Science, Institute of Metallurgy and Materials Science, Polish Academy of Sciences
+  education2: MSc Biotechnology, University of Silesia
+
 - name: Dr Samer Kurdi
   photo: Samer.jpg
-  info: Assisstant Professor
+  info: Assistant Professor
   email: s.kurdi@hw.ac.uk
   number_educ: 2
   education1: PhD Materials Science, University of Cambridge
