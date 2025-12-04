@@ -1,3 +1,12 @@
+- name: Gregory Hall
+  photo: Gregory.jpg
+  info: PhD Student
+  project: Photon-mediated interactions between solid-state quantum emitters
+  email: 
+  number_educ: 1
+  education1: Phys Theoretical Physics University of Leeds
+  education2: 
+
 - name: Dylan Mcleod
   photo: dylan.jpg
   info: PhD Student
