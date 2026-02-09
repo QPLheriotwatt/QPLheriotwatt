@@ -36,13 +36,7 @@ Two-dimensional semiconductors offer unprecedented opportunities to engineer and
 **Contact**: Mauro Brotons-Gisbert ([m.brotons_i_gisbert'at'hw.ac.uk](mailto:m.brotons_i_gisbert'at'hw.ac.uk)); Brian Gerardot ([b.d.gerardot'at'hw.ac.uk](mailto:b.d.gerardot'at'hw.ac.uk))
 </details>
 
-<details><summary><h3>Project 4: Controlling spins in silicon carbide devices</h3></summary>
-
-A single spin is the smallest possible magnetic field sensor, providing the ultimate limit in spatial resolution and sensitivity. Additionally, spins are excellent systems to store and process fragile quantum information. The goal of this project is to develop spin-based opto-electronic quantum devices based on spins in silicon carbide. As a semiconductor widely used in microelectronics, silicon carbide is a promising platform to integrate spintronic functionalities in quantum devices compatible with the current industrial processing techniques. A strong emphasis of the project will be on taking full advantage of the well-established micro-electronic SiC technology to develop novel spin control and measurement techniques.
-
-**Contact**: Cristian Bonato ([c.bonato'at'hw.ac.uk](mailto:c.bonato'at'hw.ac.uk))
-</details>
-<details><summary><h3>Project 5: Sequential Bayesian estimation and machine learning for quantum sensing</h3></summary>
+<details><summary><h3>Project 4: Sequential Bayesian estimation and machine learning for quantum sensing</h3></summary>
 
 Recent breakthroughs have demonstrating the capability of quantum sensors for measuring magnetic fields, temperature and electric field at the nanoscale. The deployment of these techniques are, however, limited by long signal acquisition times.
 In this project, we will use real-time adaptation of experimental parameters and machine learning to optimise quantum measurements to the ultimate limits. Our long-term goal is to develop AI-powered algorithms to design optimal adaptive control sequences and system identification tools (for example to detect single nuclear spins in nanoscale magnetic resonance).
@@ -50,7 +44,7 @@ This work will be carried out in collaboration with the quantum theory group of 
 
 **Contact**: Cristian Bonato ([c.bonato'at'hw.ac.uk](mailto:c.bonato'at'hw.ac.uk))
 </details>
-<details><summary><h3>Project 6: Quantum sensing for biomedical application</h3></summary>
+<details><summary><h3>Project 5: Quantum sensing for biomedical application</h3></summary>
 
 In collaboration with the new Q-BIOMED quantum hub, we are developing applications of quantum sensing to biochemistry and healthcare, with the goal to improve the detection of small quantities of molecules. We can offer different projects, from the optimisation of quantum sensing sequences for the detection of single molecules, to the integration of quantum sensors into microfluidic devices.
 
