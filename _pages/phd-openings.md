@@ -23,11 +23,23 @@ This project aims to implement machine vision and in-situ optical metrology tool
 **Contact**: Brian Gerardot ([b.d.gerardot'at'hw.ac.uk](mailto:b.d.gerardot'at'hw.ac.uk))
 </details>
 
-<details><summary><h3>Project 2: Novel platforms for integrated quantum devices based on rare earth doped insulating materials</h3></summary>
+<details><summary><h3>Project 2: Developing a broadband quantum memory for telecom single photons using rare‑earth–doped crystals</h3></summary>
 
-This project aims at the development of new telecom-compatible platforms for integrated quantum devices based on rare earth ion doped materials. This will involve the investigation of the mechanisms affecting the optical and spin coherence properties of new materials and the design of confined structure with the aim of achieving improved performances due to the strong light matter interaction and facilitating the coupling with other integrated quantum technologies as quantum light sources or detectors.
+This project sits at the forefront of **quantum communication**, as we explore how to store and retrieve quantum states of light with high fidelity and over large bandwidths — a key capability for future quantum networks.
 
-Contact: Margherita Mazzera, [m.mazzera'at'hw.ac.uk](mailto:m.mazzera'at'hw.ac.uk), +44 (0)131 451 8220
+What we offer:
+
+✨ The chance to work at the interface of **quantum optics, materials science, and quantum information**
+
+✨ Access to state‑of‑the‑art experimental facilities
+
+✨ A supportive, collaborative environment within a vibrant quantum research community
+
+✨ Opportunities to engage with national and international partners in quantum technologies
+
+We are looking for a motivated candidate with a background in physics, photonics, or a related discipline — and a genuine excitement for pushing the boundaries of quantum science.
+
+Contact: Margherita Mazzera ([m.mazzera'at'hw.ac.uk](mailto:m.mazzera'at'hw.ac.uk), +44 (0)131 451 8220)
 </details>
 
 <details><summary><h3>Project 3: Strongly correlated states in designer two-dimensional moiré heterostructures</h3></summary>
