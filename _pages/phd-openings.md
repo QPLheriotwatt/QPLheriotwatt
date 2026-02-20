@@ -62,6 +62,23 @@ In collaboration with the new Q-BIOMED quantum hub, we are developing applicatio
 
 **Contact**: Cristian Bonato ([c.bonato'at'hw.ac.uk](mailto:c.bonato'at'hw.ac.uk))
 </details>
+<details><summary><h3>Project 6: Quantum Sensing of cellular metabolism</h3></summary>
+
+We invite applications for a fully funded PhD position in the Quantum Bio Imaging Group at Heriot Watt University. 
+
+We are looking for a motivated candidate with a background in physics, photonics, materials science, quantum engineering, or a related discipline. Experience or strong interest in quantum optics, nanomaterials, biophysics, or cellular imaging is highly desirable.
+
+The successful candidate will work on developing nanodiamond based quantum sensing protocols for studying cellular metabolism, with a focus on advancing nanodiamond surface functionalization, targeted delivery in living cells, and understanding how surface chemistry influences fluorescence and spin properties of NV defects in nanodiamonds.
+
+
+This PhD project is part of a new £2M UKRI project led by Dr Aldona Mzyk, aimed at building next generation quantum enabled biomedical imaging technologies. The successful applicant will collaborate with academic and industrial partners and will have opportunities to visit partner laboratories across the UK and internationally. Heriot Watt University is a member of the UK Q BIOMED Hub, offering further connections across the UK quantum biomedical sensing community.
+
+We particularly welcome applications from women and other groups underrepresented in physics and engineering.
+
+Interested candidates should send a detailed CV, a motivation letter and details of two referees to Dr Aldona Mzyk ([A.Mzyk@hw.ac.uk](mailto:a.mzyk@hw.ac.uk)).
+
+</details>
+
 <!-- <figure> -->
 <!-- <img src="{{ site.url }}{{ site.baseurl }}/images/picpic/Gallery/DSC_0696.jpg" width="95%"> -->
 <!-- </figure> -->
