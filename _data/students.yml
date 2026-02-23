@@ -1,12 +1,3 @@
-- name: Johan and Sarah
-  photo: Stewart.JPG
-  info: PhD Student Test
-  project: Quantum sensing for harsh environments in mineral processing
-  email: 
-  number_educ: 1
-  education1: MSci Physics, University of Glasgow
-  education2: 
-
 - name: Stewart Ewan
   photo: Stewart.JPG
   info: PhD Student
