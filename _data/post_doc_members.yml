@@ -1,3 +1,12 @@
+- name: Dr Zakaria Said TEST
+  photo: Zakaria.jpg
+  info: Research Associate
+  project: Spin-photon interfacing in SiC quantum opto-electronic devices
+  email: said.zakaria2@gmail.com
+  number_educ: 2
+  education1: PhD Physics, Sorbonne Université, Paris
+  education2: MSc Physics, Sorbonne Université, Paris
+
 - name: Dr Zakaria Said
   photo: Zakaria.jpg
   info: Research Associate
