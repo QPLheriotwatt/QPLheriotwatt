@@ -1,4 +1,13 @@
-- name: Stewart Ewan
+name: Sounak Sinha Biswas
+  photo: sounak_picture.jpeg
+  info: PhD Student
+  project: Study and application of single spins in Silicon Carbide
+  email: 
+  number_educ: 1
+  education1: Integrated BS-MS Physics, IISER Kolkata, India
+  education2: - 
+
+name: Stewart Ewan
   photo: Stewart.JPG
   info: PhD Student
   project: Quantum sensing for harsh environments in mineral processing
