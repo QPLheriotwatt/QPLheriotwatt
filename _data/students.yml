@@ -1,5 +1,5 @@
 - name: Sounak Sinha Biswas
-  photo: sounak_picture.jpeg
+  photo: sounak_picture.jpg
   info: PhD Student
   project: Study and application of single spins in Silicon Carbide
   email: 
@@ -62,7 +62,7 @@
   education2:
 
 - name: Omer Tapsin
-  photo: Omer.jpeg
+  photo: Omer.jpg
   info: PhD Student
   project: New protocols and implementation of quantum communication with single photons
   email: 
