@@ -78,6 +78,17 @@
   highlight: 1
   news1:
 
+- title: Filtering and Imaging of Frequency-Degenerate Spin Waves Using Nanopositioning of a Single-Spin Sensor
+  image: Pub_SpinWaves.jpeg
+  description:
+  authors:
+    B. G. Simon, S. Kurdi, J. J. Carmiggelt, et al.
+  link:
+    url: https://pubs.acs.org/doi/full/10.1021/acs.nanolett.2c02791\
+    display: Nano Lett. 2022, 22, 22, 9198–9204
+  highlight: 1
+  news1:
+
 - title: Roadmap on quantum magnetic materials
   image: Roadmap_QMM.png
   description:
@@ -111,17 +122,6 @@
   highlight: 0
   news1:
 
-- title: Filtering and Imaging of Frequency-Degenerate Spin Waves Using Nanopositioning of a Single-Spin Sensor
-  image: Pub_SpinWaves.jpeg
-  description:
-  authors:
-    B. G. Simon, S. Kurdi, J. J. Carmiggelt, et al.
-  link:
-    url: https://pubs.acs.org/doi/full/10.1021/acs.nanolett.2c02791\
-    display: Nano Lett. 2022, 22, 22, 9198–9204
-  highlight: 1
-  news1:
-
 - title: Learning quantum systems
   image: Pub_Learning_Quantum_Systems.png
   description:
@@ -130,7 +130,7 @@
   link:
     url: https://www.nature.com/articles/s42254-022-00552-1
     display: Nat Rev Phys 5, 141–156 (2023)
-  highlight: 1
+  highlight: 0
   news1:
 
 - title: Silicon Carbide Photonics Bridging Quantum Technology
@@ -141,5 +141,5 @@
   link:
     url: https://pubs.acs.org/doi/abs/10.1021/acsphotonics.1c01775
     display: ACS Photonics 2022 9 (5), 1434-1457
-  highlight: 1
+  highlight: 0
   news1:
