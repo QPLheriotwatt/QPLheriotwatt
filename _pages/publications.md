@@ -11,7 +11,7 @@ permalink: /publications/
 
 **Publications from the whole Quantum Photonics Lab can be found here: [QPL Google Scholar account](https://scholar.google.com/citations?hl=en&user=ses26X0AAAAJ&view_op=list_works&sortby=pubdate).**
 
-**Publications for individual team leaders can be found on their own Google Scholar pages: [Brian Gerardot](https://scholar.google.com/citations?user=D7Z9rXcAAAAJ&hl=it&oi=ao), [Cristian Bonato](https://scholar.google.com/citations?user=u4UJsosAAAAJ&hl=it&oi=ao), [Margherita Mazzera](https://scholar.google.com/citations?user=60hNxz4AAAAJ&hl=it&oi=ao), [Mauro Brotons i Gisbert](https://scholar.google.com/citations?user=hA5Isw8AAAAJ&hl=it&oi=ao), [Christiaan Bekker](https://scholar.google.com/citations?user=d1CFpsMAAAAJ&hl=it&oi=ao), [Samer Kurdi](https://scholar.google.com/citations?user=LcsoFOQAAAAJ&hl=en&oi=ao).**
+**Publications for individual team leaders can be found on their own Google Scholar pages: [Brian Gerardot](https://scholar.google.com/citations?user=D7Z9rXcAAAAJ&hl=it&oi=ao), [Cristian Bonato](https://scholar.google.com/citations?user=u4UJsosAAAAJ&hl=it&oi=ao), [Margherita Mazzera](https://scholar.google.com/citations?user=60hNxz4AAAAJ&hl=it&oi=ao), [Mauro Brotons i Gisbert](https://scholar.google.com/citations?user=hA5Isw8AAAAJ&hl=it&oi=ao), [Christiaan Bekker](https://scholar.google.com/citations?user=d1CFpsMAAAAJ&hl=it&oi=ao), [Samer Kurdi](https://scholar.google.com/citations?user=LcsoFOQAAAAJ&hl=en&oi=ao), [Aldona Mzyk](https://scholar.google.com/citations?user=Qz18ME8AAAAJ&hl=en&oi=ao).**
 
 **Selected publications:**
 
