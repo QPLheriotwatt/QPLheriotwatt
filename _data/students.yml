@@ -1,3 +1,12 @@
+- name: Nikolaj Nitzsche
+  photo: Nikolaj.jpeg
+  info: PhD Student
+  project: mK Quantum Sensing
+  email: 
+  number_educ: 2
+  education1: MSc Physics, TU Delft, The Netherlands
+  education2: BSc Physics, TU Delft, The Netherlands
+
 - name: Sounak Sinha Biswas
   photo: sounak_picture.jpg
   info: PhD Student
@@ -31,7 +40,7 @@
   project: Photon-mediated interactions between solid-state quantum emitters
   email: 
   number_educ: 1
-  education1: Phys Theoretical Physics University of Leeds
+  education1: MPhys Theoretical Physics, University of Leeds
   education2: 
 
 - name: Dylan Mcleod
