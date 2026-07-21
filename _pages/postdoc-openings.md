@@ -34,7 +34,7 @@ Apply here: [https://lnkd.in/eBFt7sNc](https://lnkd.in/eBFt7sNc)
 
 </details>
 
-<details><summary><h3>Project 2: Integrated platforms for novel quantum devices using rare-earth doped crystals for quantum memory applications</h3></summary>
+<details><summary><h3>Project 2: Microfluidic platforms for live-cell quantum bio-imaging</h3></summary>
 
 We are also seeking a Postdoctoral Research Associate to develop microfluidic platforms designed to interface directly with NV based quantum sensing microscopes. These systems will support precise control and delivery of live cells, enabling high resolution studies of cellular metabolism in complex biological microenvironments.
 
@@ -61,6 +61,30 @@ We seek a talented and motivated scientist to start a new line of research on in
 The work will be conducted in the framework of a recently funded EPSRC grant involving world leading partners working in waveguide fabrication and electrical engineering. It will be carried out under the supervision of [Dr Margherita Mazzera](mailto:m.mazzera@hw.ac.uk), who is principal investigator of the funded project. The ideal candidate will have a strong experimental background in one or more of the following fields: solid-state physics, quantum photonics, and quantum information science. We especially encourage applications from women and other underrepresented groups in Physics. 
 
 **Contact**: [Dr Margherita Mazzera](mailto:m.mazzera@hw.ac.uk)
+</details>
+
+<details><summary><h3>Project 4: AI algorithms for nuclear spin detection/control (computational)</h3></summary>
+
+We are seeking a Post-doctoral Research Associate to develop algorithms based on Bayesian experimental design, variational Bayesian inference, and reinforcement learning to enable autonomous detection and control of individual nuclear spins. This is relevant, for example, to enable MRI images of nuclear spin clusters associated to single molecules or implement long-lived qubits for quantum memories.
+
+The ideal candidate will have background in AI, machine learning, applied mathematics/statistics, computer science/engineering, or theoretical physics, excellent mathematical and coding (python) skills, and an interest in collaborating with experimentalists. Successful candidates will work closely with partners across the "Integrated Quantum Networks" (IQN) and "Quantum Sensing for Biomedical Research" (Q-BIOMED) hubs.
+
+If interested, please contact [Prof Cristian Bonato](mailto:c.bonato@hw.ac.uk) as soon as possible.
+
+**Contact**: [Prof Cristian Bonato](mailto:c.bonato@hw.ac.uk)
+
+</details>
+
+<details><summary><h3>Project 5: AI-enhanced quantum sensing (experimental)</h3></summary>
+
+We are seeking a Post-doctoral Research Associate to further develop our real-time adaptive quantum sensing platform and lead experimental demonstrations of AI-driven identification of single nuclear spins and the development of optimal controls. The over-arching goal is to develop self-optimising quantum sensors that drastically reduce sensing time in highly-multidimensional spaces, and boost robustness to experimental imperfections.
+
+The ideal candidate will have a background in experimental quantum technologies (experience with NV centres in diamond or other colour centres is particularly desirable), excellent coding skills and good familiarity with probability theory or machine learning. Successful candidates will work closely with partners across the "Integrated Quantum Networks" (IQN) and "Quantum Sensing for Biomedical Research" (Q-BIOMED) hubs.
+
+If interested, please contact [Prof Cristian Bonato](mailto:c.bonato@hw.ac.uk) as soon as possible.
+
+**Contact**: [Prof Cristian Bonato](mailto:c.bonato@hw.ac.uk)
+
 </details>
 
 <p></p>

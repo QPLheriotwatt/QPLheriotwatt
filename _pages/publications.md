@@ -56,7 +56,7 @@ permalink: /publications/
 
 <p> &nbsp; </p>
 
-## Roadmaps and Reviews:
+## Reviews, Roadmaps and Tutorials:
 
 {% assign number_printed = 0 %}
 {% for publi in site.data.publist %}
@@ -112,7 +112,7 @@ Zurich Instruments, [Speeding up NV Center Measurements with Real-time Control](
 
 <!-- {% endfor %} -->
 
-## Talks:
+## Talks and Interviews:
 
 **Measuring the Smallest Magnetic Fields - Research Bites with Prof. Cristian Bonato**
 <iframe width="560" height="315" src="https://www.youtube.com/embed/MP7MaVotkhs" frameborder="0" allowfullscreen></iframe>
@@ -125,3 +125,6 @@ Zurich Instruments, [Speeding up NV Center Measurements with Real-time Control](
 
 **NanoMRI7 with Prof. Cristian Bonato**
 <iframe width="560" height="315" src="https://www.youtube.com/embed/QrpzBuM2RxQ" frameborder="0" allowfullscreen></iframe>
+
+**Automating Atomic Assembly: Enabling the Quantum Revolution**
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f9Tz_3pksrw" frameborder="0" allowfullscreen></iframe>

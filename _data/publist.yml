@@ -111,6 +111,17 @@
   highlight: 0
   news1:
 
+- title: "Tutorial: Membrane phononic integrated circuits"
+  image: Pub_Silicon_Carbide_Photonics.png
+  description:
+  authors:
+    T. M. F. Hirsch, N. P. Mauranyapin, E. Romero, G. I. Harris, X. Jin, N. Arora, C. J. Bekker, C. Meng, W. P. Bowen, C. G. Baker
+  link:
+    url: https://pubs.aip.org/aip/jap/article/139/8/081102/3381080
+    display: J. Appl. Phys. 139, 081102 (2026)
+  highlight: 0
+  news1:
+
 - title: Quantum photonics with layered 2D materials
   image: Review_2D_materials.jpg
   description:
