@@ -178,15 +178,6 @@
   education1: MSc Physics, University of Birmingham
   education2:
 
-- name: Finley Giles-Book
-  photo: Finley.jpg
-  info: PhD Student
-  project: Developing ultra-high efficiency quantum memories.
-  email: 
-  number_educ: 1
-  education1: MPhys Physics, Heriot-Watt University
-  education2:
-
 - name: "This could be you!"
   photo: rock.jpg
   # info: See <a href="http://www.allanlab.org/vacancies">openings</a> for more info

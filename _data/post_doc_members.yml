@@ -1,3 +1,12 @@
+- name: Finley Giles-Book
+  photo: Finley.jpg
+  info: Research Associate
+  project: Developing ultra-high efficiency quantum memories.
+  email: 
+  number_educ: 2
+  education1: PhD Physics, Heriot-Watt University
+  education2: MPhys Physics, Heriot-Watt University
+
 - name: Dr Zakaria Said
   photo: Zakaria.jpg
   info: Research Associate
