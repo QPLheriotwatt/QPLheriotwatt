@@ -133,15 +133,6 @@
   education1: MSc Integrated Physics, Doon University, India
   education2:
 
-- name: Alex Jones
-  photo: Alex.jpg
-  info: PhD Student
-  project: Scalable architectures for spin qubits in silicon carbide.
-  email: 
-  number_educ: 1
-  education1: BSc Applied Physics, University of Portsmouth
-  education2:
-
 - name: Bibi Mary Francis
   photo: Bibi.jpg
   info: PhD Student
