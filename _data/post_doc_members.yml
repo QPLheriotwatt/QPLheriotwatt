@@ -1,6 +1,15 @@
+- name: Jonathan Laurent
+  photo: Jonathan.jpeg
+  info: Research Associate
+  project: Developing ultra-high efficiency quantum memories.
+  email: 
+  number_educ: 2
+  education1: PhD Physics, Grenoble-Alpes University
+  education2: MSc Condensed Matter Physics, Grenoble-Alpes University
+
 - name: Alex Jones
   photo: Alex.jpg
-  info: PhD Student
+  info: Research Associate
   project: Translating quantum sensing and microscopy technologies into commercially viable solutions for scientific and industrial applications.
   email: 
   number_educ: 2
