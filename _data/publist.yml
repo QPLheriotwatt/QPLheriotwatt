@@ -12,8 +12,9 @@
 #   news2: See also <a href="http://phys.org/news/2013-07-imaging-electron-pairing-simple-magnetic.html"> Phys.org</a>, <a href="http://davisgroup.lassp.cornell.edu/CeCoIn5_DoE.html">DoE headliner</a>
 
 - title: Nanodiamond-Based Quantum Sensing Reveals Changes in Endo-Lysosomal Activity of Stimulated Cardiac Fibroblasts in a Cellular Fibrosis Model
+  image: Pub_Nanodiamond_Quantum_Sensing.jpg
   description:
-    Fluorescent nanodiamonds with NV centres are used to track endo-lysosomal redox and iron dynamics in living cells, revealing how endo-lysosomal activity changes as cardiac fibroblasts transdifferentiate into senescent myofibroblasts.
+    Fluorescent nanodiamonds with NV centres are used to track endo-lysosomal redox and iron dynamics in living cells.
   authors:
     A. Mzyk, E. Yilmaz, G. D'Angelo, K. Berg-Sørensen
   link:
@@ -23,8 +24,9 @@
   news1:
 
 - title: Bio-sensing with NV-centers in diamond
+  image: Review_Biosensing_NV_centers.jpg
   description:
-    A review of the sensing capabilities offered by NV centres in diamond for investigations of biological systems, comparing the bulk-diamond and fluorescent-nanodiamond approaches and their respective strengths and challenges.
+    A review of the sensing capabilities offered by NV centres in diamond for investigations of biological systems.
   authors:
     M. Niora, A. Mzyk, K. Berg-Sørensen
   link:

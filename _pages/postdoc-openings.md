@@ -26,6 +26,7 @@ Ideal candidates will have experience in:
 -	Developing nanoparticle-based strategies for drug delivery into live cells
 -	Confocal fluorescent microscopy and image processing
 -	Flow cytometry and data analysis
+
 We particularly welcome applications from women and underrepresented groups in STEM.
 
 Apply here: a link will be available shortly, for now please contact [Dr Aldona Mzyk](mailto:a.mzyk@hw.ac.uk).
@@ -45,6 +46,7 @@ Ideal candidates will have experience in:
 -	Integration of microfluidics with optical or sensor based systems
 -	Mixed signal electronics for actuation and control
 -	(Desirable) Working with mammalian cells
+
 We particularly welcome applications from women and underrepresented groups in science and engineering.
 
 Apply here: [https://enzj.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/4652](https://enzj.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/4652)
