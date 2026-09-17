@@ -28,7 +28,9 @@ permalink: /publications/
 <div class="col-sm-6 clearfix">
  <div class="well" style="min-height: 200px; overflow: hidden;">
   <pubtit>{{ publi.title }}</pubtit>
+  {% if publi.image %}
   <img src="{{ site.url }}{{ site.baseurl }}/images/pubpic/{{ publi.image }}" class="img-responsive" width="40%" style="float: left; margin-right: 15px; margin-bottom: 10px;" />
+  {% endif %}
   <div style="overflow: hidden;">
    <p>{{ publi.description }}</p>
    <p><em>{{ publi.authors }}</em></p>
@@ -71,7 +73,9 @@ permalink: /publications/
 <div class="col-sm-6 clearfix">
  <div class="well" style="min-height: 200px; overflow: hidden;">
   <pubtit>{{ publi.title }}</pubtit>
+  {% if publi.image %}
   <img src="{{ site.url }}{{ site.baseurl }}/images/pubpic/{{ publi.image }}" class="img-responsive" width="40%" style="float: left; margin-right: 15px; margin-bottom: 10px;" />
+  {% endif %}
   <div style="overflow: hidden;">
    <p>{{ publi.description }}</p>
    <p><em>{{ publi.authors }}</em></p>

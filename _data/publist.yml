@@ -11,6 +11,28 @@
 #   news1: <a style="color:#FF0000; text-decoration:underline" href="http://www.nature.com/nphys/journal/v9/n8/full/nphys2708.html">Featured in 'News and Views' by L Taillefer</a>
 #   news2: See also <a href="http://phys.org/news/2013-07-imaging-electron-pairing-simple-magnetic.html"> Phys.org</a>, <a href="http://davisgroup.lassp.cornell.edu/CeCoIn5_DoE.html">DoE headliner</a>
 
+- title: Nanodiamond-Based Quantum Sensing Reveals Changes in Endo-Lysosomal Activity of Stimulated Cardiac Fibroblasts in a Cellular Fibrosis Model
+  description:
+    Fluorescent nanodiamonds with NV centres are used to track endo-lysosomal redox and iron dynamics in living cells, revealing how endo-lysosomal activity changes as cardiac fibroblasts transdifferentiate into senescent myofibroblasts.
+  authors:
+    A. Mzyk, E. Yilmaz, G. D'Angelo, K. Berg-Sørensen
+  link:
+    url: https://doi.org/10.1002/adfm.202528248
+    display: Adv. Funct. Mater. 36, e28248 (2026)
+  highlight: 1
+  news1:
+
+- title: Bio-sensing with NV-centers in diamond
+  description:
+    A review of the sensing capabilities offered by NV centres in diamond for investigations of biological systems, comparing the bulk-diamond and fluorescent-nanodiamond approaches and their respective strengths and challenges.
+  authors:
+    M. Niora, A. Mzyk, K. Berg-Sørensen
+  link:
+    url: https://doi.org/10.1088/2515-7647/ae46fe
+    display: J. Phys. Photonics 8, 012007 (2026)
+  highlight: 0
+  news1:
+
 - title: Quadrupolar and Dipolar Excitons in Bilayer 2H-MoSe2
   image: Pub_MoSe2.png
   description:

@@ -6,6 +6,13 @@
    number_educ: 2
    education1: PhD, Heriot-Watt University
    education2: MPhys, Heriot-Watt University
-   education3:
-   education4:
+
+ - name: Dr Zeeshan Babar
+   photo: Zeeshan.jpg
+   duration: 2023-2026.
+   info: Research Associate with Prof. Brian Gerardot on autonomous assembly of 2D materials.
+   email: 
+   number_educ: 2
+   education1: PhD Robotics, University of Genova, Italy
+   education2: MEng Electronics Engineering, Capital University of Science and Technology, Pakistan
 

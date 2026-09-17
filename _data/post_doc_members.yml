@@ -1,3 +1,12 @@
+- name: Thomas Dickinson
+  photo: Thomas.jpg
+  info: Research Associate
+  project: Integrating spin-based quantum sensing with biological imaging.
+  email: 
+  number_educ: 2
+  education1: PhD Physics, University of Strathclyde
+  education2: MPhys Physics, University of Oxford
+
 - name: Jonathan Laurent
   photo: Jonathan.jpeg
   info: Research Associate
@@ -118,15 +127,6 @@
   number_educ: 2
   education1: PhD Materials Science, University of Crete
   education2: MSc Materials Science, University of Crete
-
-- name: Dr Zeeshan Babar
-  photo: Zeeshan.jpg
-  info: Research Associate
-  project: Autonomous assembly of 2D materials
-  email: m.babar@hw.ac.uk
-  number_educ: 2
-  education1: PhD Robotics, University of Genova, Italy
-  education2: MEng Electronics Engineering, Capital University of Science and Technology, Pakistan
 
 - name: Dr Nicholas Werren
   photo: Nicholas.jpg
