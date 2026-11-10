@@ -1,4 +1,4 @@
-- name: Konstantinos Mourzidis
+- name: Dr Konstantinos Mourzidis
   photo: Kostas.jpeg
   info: Research Associate
   project: Non-linear optics in 2D materials.
@@ -7,7 +7,7 @@
   education1: PhD Condensed Matter Physics, University of Toulouse - INSA Toulouse
   education2: MSc Materials Science, University of Crete
 
-- name: Thomas Dickinson
+- name: Dr Thomas Dickinson
   photo: Thomas.jpg
   info: Research Associate
   project: Integrating spin-based quantum sensing with biological imaging.
@@ -16,7 +16,7 @@
   education1: PhD Physics, University of Strathclyde
   education2: MPhys Physics, University of Oxford
 
-- name: Jonathan Laurent
+- name: Dr Jonathan Laurent
   photo: Jonathan.jpeg
   info: Research Associate
   project: Developing ultra-high efficiency quantum memories.
@@ -25,7 +25,7 @@
   education1: PhD Physics, Grenoble-Alpes University
   education2: MSc Condensed Matter Physics, Grenoble-Alpes University
 
-- name: Alex Jones
+- name: Dr Alex Jones
   photo: Alex.jpg
   info: Research Associate
   project: Translating quantum sensing and microscopy technologies into commercially viable solutions for scientific and industrial applications.
